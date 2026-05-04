@@ -16,7 +16,7 @@ This is a **Vite+** monorepo using **pnpm workspaces**. It provides a unified to
 ### Project Structure
 
 ```text
-orthfx/
+orthfx-platform/
 ├── apps/
 │   ├── website/            # The main orthfx.com organizational site
 │   ├── sites/              # The church website builder and directory

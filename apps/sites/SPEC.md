@@ -81,4 +81,4 @@ Invitation-only platform. Users are issued invite tokens which grant access and 
 
 ## Tracking
 
-Requirements tracked as GitHub Issues on `_orthfx/sites`.
+Requirements tracked as GitHub Issues on `orthfx/orthfx-platform`.
