@@ -1,6 +1,6 @@
 [build]
-  command = "cd ../.. && pnpm install --frozen-lockfile && pnpm --filter orthfx build"
-  publish = "dist"
+  command = "pnpm --filter orthfx run build"
+  publish = "apps/website/dist"
 
 [[redirects]]
   from = "/*"

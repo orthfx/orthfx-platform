@@ -1,6 +1,6 @@
 [build]
-  command = "cd ../.. && pnpm install --frozen-lockfile && pnpm --filter sites build"
-  publish = "dist"
+  command = "pnpm --filter sites run build"
+  publish = "apps/sites/dist"
 
 [[redirects]]
   from = "/*"

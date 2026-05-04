@@ -1,6 +1,6 @@
 [build]
-  command = "cd ../.. && pnpm install --frozen-lockfile && pnpm --filter orthodox-registry build"
-  publish = "dist"
+  command = "pnpm --filter orthodox-registry run build"
+  publish = "apps/orthodox-registry/dist"
 
 [[redirects]]
   from = "/*"
