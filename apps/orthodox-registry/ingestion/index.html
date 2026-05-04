@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ROCOR Parish Directory - Interactive Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>ROCOR Parish Directory</h1>
+            <p class="subtitle">Russian Orthodox Church Outside of Russia - Worldwide Parishes</p>
+        </header>
+
+        <div class="search-bar">
+            <input type="text" id="searchInput" placeholder="Search by parish name, city, state, or country...">
+            <div class="filter-controls">
+                <label>
+                    Country:
+                    <select id="countryFilter">
+                        <option value="">All Countries</option>
+                    </select>
+                </label>
+                <label>
+                    State:
+                    <select id="stateFilter">
+                        <option value="">All States</option>
+                    </select>
+                </label>
+                <button id="resetBtn">Reset Filters</button>
+            </div>
+        </div>
+
+        <div class="stats">
+            <span id="parishCount">0</span> parishes found
+        </div>
+
+        <div class="main-content">
+            <div id="map"></div>
+            <div class="parish-list">
+                <h2>Parishes</h2>
+                <div id="parishListContainer"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

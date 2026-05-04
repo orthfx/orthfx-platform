@@ -1,0 +1,5114 @@
+[
+  {
+    "uid": "655",
+    "latitude": 32.3182314,
+    "longitude": -86.902298,
+    "country": "United States",
+    "state": "AL",
+    "name": "St. Eustace the Great-Martyr Mission",
+    "city": ", AL"
+  },
+  {
+    "uid": "545",
+    "latitude": 33.3115331,
+    "longitude": -86.9529822,
+    "country": "United States",
+    "state": "AL",
+    "name": "St John Cassian Chapel",
+    "city": "Bessemer, AL"
+  },
+  {
+    "uid": "534",
+    "latitude": 34.7202223,
+    "longitude": -86.6060029,
+    "country": "United States",
+    "state": "AL",
+    "name": "St. Xenia the Blessed",
+    "city": "Huntsville, AL"
+  },
+  {
+    "uid": "647",
+    "latitude": 43.0999919,
+    "longitude": -89.3497128,
+    "country": "United States",
+    "state": "AL",
+    "name": "Dormition Greek Church",
+    "city": "Madison, AL"
+  },
+  {
+    "uid": "520",
+    "latitude": 31.3175963,
+    "longitude": -85.4889445,
+    "country": "United States",
+    "state": "AL",
+    "name": "Holy Trinity Orthodox Christian Church",
+    "city": "Midland City, AL"
+  },
+  {
+    "uid": "521",
+    "latitude": 32.3741582,
+    "longitude": -86.1682885,
+    "country": "United States",
+    "state": "AL",
+    "name": "St. Martin of Tours Mission",
+    "city": "Montgomery, AL"
+  },
+  {
+    "uid": "210",
+    "latitude": 63.588753,
+    "longitude": -154.4930619,
+    "country": "United States",
+    "state": "AK",
+    "name": "St. James the Just Orthodox Church",
+    "city": ", AK"
+  },
+  {
+    "uid": "682",
+    "latitude": 36.3400904,
+    "longitude": -92.385217,
+    "country": "United States",
+    "state": "AZ",
+    "name": "Holy Transfiguration Orthodox Church",
+    "city": ", AZ"
+  },
+  {
+    "uid": "654",
+    "latitude": 35.1001893,
+    "longitude": -114.6248339,
+    "country": "United States",
+    "state": "AZ",
+    "name": "St. Brendon Orthodox Church",
+    "city": "Bullhead City, AZ"
+  },
+  {
+    "uid": "657",
+    "latitude": 33.0314508,
+    "longitude": -111.3873431,
+    "country": "United States",
+    "state": "AZ",
+    "name": "Russian Orthodox Mission",
+    "city": "Florence, AZ"
+  },
+  {
+    "uid": "66",
+    "latitude": 33.3715409,
+    "longitude": -112.0382986,
+    "country": "United States",
+    "state": "AZ",
+    "name": "Holy Archangels Church",
+    "city": "Phoenix, AZ"
+  },
+  {
+    "uid": "459",
+    "latitude": 33.483751,
+    "longitude": -112.024069,
+    "country": "United States",
+    "state": "AZ",
+    "name": "Holy Stavropegial Monastery of St. Anthony the Great",
+    "city": "Phoenix, AZ"
+  },
+  {
+    "uid": "650",
+    "latitude": 34.5791561,
+    "longitude": -112.3533822,
+    "country": "United States",
+    "state": "AZ",
+    "name": "St. Nicholas Orthodox Church",
+    "city": "Prescott Valley, AZ"
+  },
+  {
+    "uid": "619",
+    "latitude": 32.6993425,
+    "longitude": -109.6781828,
+    "country": "United States",
+    "state": "AZ",
+    "name": "The Holy Monastery of Saint Paisius",
+    "city": "Safford, AZ"
+  },
+  {
+    "uid": "658",
+    "latitude": 34.3702469,
+    "longitude": -110.0375616,
+    "country": "United States",
+    "state": "AZ",
+    "name": "St. Herman of Alaska Mission",
+    "city": "Showlow, AZ"
+  },
+  {
+    "uid": "108",
+    "latitude": 32.227832,
+    "longitude": -110.943784,
+    "country": "United States",
+    "state": "AZ",
+    "name": "St. Herman of Alaska Community",
+    "city": "Tucson, AZ"
+  },
+  {
+    "uid": "656",
+    "latitude": 32.2502557,
+    "longitude": -110.9105677,
+    "country": "United States",
+    "state": "AZ",
+    "name": "Holy Virgin Russian Orthodox Church of the Kursk Root Icon",
+    "city": "Tucson, AZ"
+  },
+  {
+    "uid": "625",
+    "latitude": 33.5943686,
+    "longitude": -112.3026222,
+    "country": "United States",
+    "state": "AZ",
+    "name": "Christ the Savior Orthodox Church",
+    "city": "Youngtown, AZ"
+  },
+  {
+    "uid": "575",
+    "latitude": 33.5943686,
+    "longitude": -112.3026222,
+    "country": "United States",
+    "state": "AZ",
+    "name": "All Saints of North America Church",
+    "city": "Youngtown, AZ"
+  },
+  {
+    "uid": "65",
+    "latitude": 34.069745,
+    "longitude": -94.399806,
+    "country": "United States",
+    "state": "AR",
+    "name": "All Saints of America Orthodox",
+    "city": "De Queen, AR"
+  },
+  {
+    "uid": "546",
+    "latitude": 34.806645,
+    "longitude": -92.2496139,
+    "country": "United States",
+    "state": "AR",
+    "name": "Seeker of the Lost Orthodox Mission",
+    "city": "North Little Rock, AR"
+  },
+  {
+    "uid": "430",
+    "latitude": 36.778261,
+    "longitude": -119.4179324,
+    "country": "United States",
+    "state": "CA",
+    "name": "St. John the Wonderworker Western-Rite Stavropegial Orthodox Church",
+    "city": ", CA"
+  },
+  {
+    "uid": "109",
+    "latitude": 37.579798,
+    "longitude": -122.357889,
+    "country": "United States",
+    "state": "CA",
+    "name": "Church of All Russian Saints",
+    "city": "Burlingame, CA"
+  },
+  {
+    "uid": "95",
+    "latitude": 38.577706,
+    "longitude": -122.582505,
+    "country": "United States",
+    "state": "CA",
+    "name": "St. Simeon Verkhotursky Russian Orthodox Church",
+    "city": "Calistoga, CA"
+  },
+  {
+    "uid": "110",
+    "latitude": 37.707005,
+    "longitude": -122.069826,
+    "country": "United States",
+    "state": "CA",
+    "name": "St. John of Kronstadt House Church",
+    "city": "Castro Valley, CA"
+  },
+  {
+    "uid": "97",
+    "latitude": 37.977128,
+    "longitude": -122.03211,
+    "country": "United States",
+    "state": "CA",
+    "name": "St. Xenia of St. Petersburg Mission",
+    "city": "Concord, CA"
+  },
+  {
+    "uid": "652",
+    "latitude": 33.8880971,
+    "longitude": -117.5829635,
+    "country": "United States",
+    "state": "CA",
+    "name": "Orthodox Church of the Nativity of the Theotokos",
+    "city": "Corona, CA"
+  },
+  {
+    "uid": "312",
+    "latitude": 38.693374,
+    "longitude": -120.812685,
+    "country": "United States",
+    "state": "CA",
+    "name": "St. Elias Orthodox Mission",
+    "city": "Diamond Springs, CA"
+  },
+  {
+    "uid": "111",
+    "latitude": 38.492286,
+    "longitude": -123.010714,
+    "country": "United States",
+    "state": "CA",
+    "name": "Holy Virgin of Kazan Church",
+    "city": "Guerneville, CA"
+  },
+  {
+    "uid": "112",
+    "latitude": 34.1082015,
+    "longitude": -118.3255839,
+    "country": "United States",
+    "state": "CA",
+    "name": "Protection of the Holy Virgin Russian Church",
+    "city": "Hollywood, CA"
+  },
+  {
+    "uid": "103",
+    "latitude": 38.524525,
+    "longitude": -123.2307067,
+    "country": "United States",
+    "state": "CA",
+    "name": "Holy Trinity Chapel",
+    "city": "Jenner, CA"
+  },
+  {
+    "uid": "106",
+    "latitude": 33.6603481,
+    "longitude": -117.6965434,
+    "country": "United States",
+    "state": "CA",
+    "name": "St. Barbara Russian Orthodox Church",
+    "city": "Lake forest , CA"
+  },
+  {
+    "uid": "649",
+    "latitude": 39.6255684,
+    "longitude": -123.5778491,
+    "country": "United States",
+    "state": "CA",
+    "name": "St. Olga Chapel (St. George Pathfinders Camp)",
+    "city": "Laytonville, CA"
+  },
+  {
+    "uid": "617",
+    "latitude": 38.1385968,
+    "longitude": -121.2894628,
+    "country": "United States",
+    "state": "CA",
+    "name": "All Saints Orthodox Mission",
+    "city": "Lodi , CA"
+  },
+  {
+    "uid": "104",
+    "latitude": 34.09558,
+    "longitude": -118.3081987,
+    "country": "United States",
+    "state": "CA",
+    "name": "Holy Dormition Mission",
+    "city": "Los Angeles, CA"
+  },
+  {
+    "uid": "105",
+    "latitude": 34.09558,
+    "longitude": -118.308199,
+    "country": "United States",
+    "state": "CA",
+    "name": "Holy Transfiguration Cathedral",
+    "city": "Los Angeles, CA"
+  },
+  {
+    "uid": "691",
+    "latitude": 30.6088011,
+    "longitude": -89.9000731,
+    "country": "United States",
+    "state": "CA",
+    "name": "Monastery of Our Lady and Holy Forerunner and Baptist John",
+    "city": "Los Angeles, CA"
+  },
+  {
+    "uid": "113",
+    "latitude": 34.231212,
+    "longitude": -119.161547,
+    "country": "United States",
+    "state": "CA",
+    "name": "Holy Trinity Church",
+    "city": "Oxnard, CA"
+  },
+  {
+    "uid": "114",
+    "latitude": 37.42863,
+    "longitude": -122.1151417,
+    "country": "United States",
+    "state": "CA",
+    "name": "Protection of the Holy Virgin Church",
+    "city": "Palo Alto, CA"
+  },
+  {
+    "uid": "101",
+    "latitude": 38.582232,
+    "longitude": -121.488248,
+    "country": "United States",
+    "state": "CA",
+    "name": "Holy Ascension Church",
+    "city": "Sacramento, CA"
+  },
+  {
+    "uid": "116",
+    "latitude": 32.747906,
+    "longitude": -117.084625,
+    "country": "United States",
+    "state": "CA",
+    "name": "St. John of Kronstadt Church",
+    "city": "San Diego, CA"
+  },
+  {
+    "uid": "72",
+    "latitude": 37.786448,
+    "longitude": -122.46497,
+    "country": "United States",
+    "state": "CA",
+    "name": "Holy Resurrection Orthodox Church",
+    "city": "San Francisco, CA"
+  },
+  {
+    "uid": "120",
+    "latitude": 37.7839524,
+    "longitude": -122.4791085,
+    "country": "United States",
+    "state": "CA",
+    "name": "Church of the Mother of God of Kazan",
+    "city": "San Francisco, CA"
+  },
+  {
+    "uid": "566",
+    "latitude": 37.7803481,
+    "longitude": -122.486305,
+    "country": "United States",
+    "state": "CA",
+    "name": "Holy Virgin &quot;Joy of All Who Sorrow&quot; Cathedral",
+    "city": "San Francisco, CA"
+  },
+  {
+    "uid": "118",
+    "latitude": 37.763011,
+    "longitude": -122.469131,
+    "country": "United States",
+    "state": "CA",
+    "name": "St. Sergius of Radonezh Church",
+    "city": "San Francisco, CA"
+  },
+  {
+    "uid": "404",
+    "latitude": 37.77704,
+    "longitude": -122.473537,
+    "country": "United States",
+    "state": "CA",
+    "name": "Diocesan Administration, Diocese of Western-America",
+    "city": "San Francisco, CA"
+  },
+  {
+    "uid": "73",
+    "latitude": 37.77704,
+    "longitude": -122.473537,
+    "country": "United States",
+    "state": "CA",
+    "name": "St. Tikhon of Zadonsk Orthodox Church",
+    "city": "San Francisco, CA"
+  },
+  {
+    "uid": "71",
+    "latitude": 37.778016,
+    "longitude": -122.43094,
+    "country": "United States",
+    "state": "CA",
+    "name": "Old Holy Virgin Cathedral",
+    "city": "San Francisco, CA"
+  },
+  {
+    "uid": "124",
+    "latitude": 34.4198538,
+    "longitude": -119.7102687,
+    "country": "United States",
+    "state": "CA",
+    "name": "Holy Resurrection Church",
+    "city": "Santa Barbara, CA"
+  },
+  {
+    "uid": "125",
+    "latitude": 38.390812,
+    "longitude": -122.743313,
+    "country": "United States",
+    "state": "CA",
+    "name": "Sts. Peter and Paul Russian Orthodox Church",
+    "city": "Santa Rosa, CA"
+  },
+  {
+    "uid": "126",
+    "latitude": 36.6015138,
+    "longitude": -121.8508143,
+    "country": "United States",
+    "state": "CA",
+    "name": "St. Seraphim of Sarov Church",
+    "city": "Seaside, CA"
+  },
+  {
+    "uid": "540",
+    "latitude": 38.011156,
+    "longitude": -120.387769,
+    "country": "United States",
+    "state": "CA",
+    "name": "Saint Silouan&#39;a Monastery",
+    "city": "Sonora, CA"
+  },
+  {
+    "uid": "115",
+    "latitude": 37.3800914,
+    "longitude": -122.0294657,
+    "country": "United States",
+    "state": "CA",
+    "name": "St. Herman of Alaska Church",
+    "city": "Sunnyvale, CA"
+  },
+  {
+    "uid": "2",
+    "latitude": 39.674632,
+    "longitude": -104.949127,
+    "country": "United States",
+    "state": "CO",
+    "name": "Church of All Russian Saints",
+    "city": "Denver, CO"
+  },
+  {
+    "uid": "54",
+    "latitude": 42.0274293,
+    "longitude": -72.5478646,
+    "country": "United States",
+    "state": "CT",
+    "name": "St. Nicholas Orthodox Church",
+    "city": "Enfield, CT"
+  },
+  {
+    "uid": "40",
+    "latitude": 41.734745,
+    "longitude": -72.6827613,
+    "country": "United States",
+    "state": "CT",
+    "name": "St. Panteleimon Church",
+    "city": "Hartford, CT"
+  },
+  {
+    "uid": "30",
+    "latitude": 41.5798175,
+    "longitude": -72.0620818,
+    "country": "United States",
+    "state": "CT",
+    "name": "The Orthodox Church of the Holy New Martyrs and Confessors of Russia",
+    "city": "Norwich, CT"
+  },
+  {
+    "uid": "454",
+    "latitude": 41.448943,
+    "longitude": -73.2502511,
+    "country": "United States",
+    "state": "CT",
+    "name": "St. Sergius Russian Orthodox Chapel",
+    "city": "Southbury , CT"
+  },
+  {
+    "uid": "129",
+    "latitude": 41.1987429,
+    "longitude": -73.1357275,
+    "country": "United States",
+    "state": "CT",
+    "name": "Church of the Presentation of Christ in the Temple",
+    "city": "Stratford, CT"
+  },
+  {
+    "uid": "39",
+    "latitude": 41.1843821,
+    "longitude": -73.142705,
+    "country": "United States",
+    "state": "CT",
+    "name": "St. Nicholas Orthodox Church",
+    "city": "Stratford, CT"
+  },
+  {
+    "uid": "594",
+    "latitude": 38.9458506,
+    "longitude": -77.0137592,
+    "country": "United States",
+    "state": "DC",
+    "name": "Iveron Mother of God Cemetery Chapel at St. Paul&#39;s Rock Creek Cemetery",
+    "city": ", DC"
+  },
+  {
+    "uid": "12",
+    "latitude": 38.93997,
+    "longitude": -77.037975,
+    "country": "United States",
+    "state": "DC",
+    "name": "St. John the Baptist Orthodox Cathedral",
+    "city": "Washington, DC"
+  },
+  {
+    "uid": "417",
+    "latitude": 29.1987957,
+    "longitude": -81.0423429,
+    "country": "United States",
+    "state": "FL",
+    "name": "St. Andrew the First-Called Mission",
+    "city": ", FL"
+  },
+  {
+    "uid": "232",
+    "latitude": 29.4740512,
+    "longitude": -81.224157,
+    "country": "United States",
+    "state": "FL",
+    "name": "St. Nicholas Church",
+    "city": "Bunnell, FL"
+  },
+  {
+    "uid": "506",
+    "latitude": 27.9472240447307,
+    "longitude": -82.7778447275085,
+    "country": "United States",
+    "state": "FL",
+    "name": "Saint Catherine Mission",
+    "city": "Clearwater, FL"
+  },
+  {
+    "uid": "610",
+    "latitude": 26.2572383,
+    "longitude": -80.1909065,
+    "country": "United States",
+    "state": "FL",
+    "name": "Holy St. Luke the Evangelist Chapel",
+    "city": "Coconut Creek, FL"
+  },
+  {
+    "uid": "608",
+    "latitude": 26.0189828,
+    "longitude": -80.2040952,
+    "country": "United States",
+    "state": "FL",
+    "name": "Three Heirarchs Church",
+    "city": "Hollywood, FL"
+  },
+  {
+    "uid": "533",
+    "latitude": 29.6238574,
+    "longitude": -81.8903684,
+    "country": "United States",
+    "state": "FL",
+    "name": "St. Xenia Orthodox Church Mission",
+    "city": "Interlachen, FL"
+  },
+  {
+    "uid": "451",
+    "latitude": 24.5705975,
+    "longitude": -81.7529063,
+    "country": "United States",
+    "state": "FL",
+    "name": "St. Nina Orthodox Mission",
+    "city": "Key West, FL"
+  },
+  {
+    "uid": "549",
+    "latitude": 26.5736443,
+    "longitude": -80.0596629,
+    "country": "United States",
+    "state": "FL",
+    "name": "St. Panteleimon Russian Orthodox Church",
+    "city": "Lantana, FL"
+  },
+  {
+    "uid": "17",
+    "latitude": 25.772943,
+    "longitude": -80.270037,
+    "country": "United States",
+    "state": "FL",
+    "name": "St. Vladimir Orthodox Church",
+    "city": "Miami, FL"
+  },
+  {
+    "uid": "607",
+    "latitude": 25.7991587,
+    "longitude": -80.1933755,
+    "country": "United States",
+    "state": "FL",
+    "name": "Apostolic Mission in Christ",
+    "city": "Miami, FL"
+  },
+  {
+    "uid": "611",
+    "latitude": 27.0472356,
+    "longitude": -82.2565247,
+    "country": "United States",
+    "state": "FL",
+    "name": "Church of the Pochaev Icon of the Mother of God",
+    "city": "North Port, FL"
+  },
+  {
+    "uid": "528",
+    "latitude": 29.4764082,
+    "longitude": -81.2236128,
+    "country": "United States",
+    "state": "FL",
+    "name": "New Tikhvin Skete of the Holy Mother of God",
+    "city": "Palm Coast, Florida, FL"
+  },
+  {
+    "uid": "519",
+    "latitude": 26.2916888,
+    "longitude": -80.1473263,
+    "country": "United States",
+    "state": "FL",
+    "name": "Saint Luke Russian Orthodox Church",
+    "city": "Pompano Beach, FL"
+  },
+  {
+    "uid": "492",
+    "latitude": 27.370083,
+    "longitude": -82.553064,
+    "country": "United States",
+    "state": "FL",
+    "name": "St. Joseph Staropegial Western-Rite Orthodox Church",
+    "city": "Sarasota, FL"
+  },
+  {
+    "uid": "18",
+    "latitude": 27.8209857,
+    "longitude": -82.7260966,
+    "country": "United States",
+    "state": "FL",
+    "name": "St. Andrew Russian Orthodox Cathedral",
+    "city": "St. Petersburg, FL"
+  },
+  {
+    "uid": "330",
+    "latitude": 26.166317,
+    "longitude": -80.309271,
+    "country": "United States",
+    "state": "FL",
+    "name": "St. Nicholas & San Gennaro Mission",
+    "city": "Sunrise, FL"
+  },
+  {
+    "uid": "601",
+    "latitude": 32.1656221,
+    "longitude": -82.9000751,
+    "country": "United States",
+    "state": "GA",
+    "name": "Monastery of the Glorious Ascension",
+    "city": ", GA"
+  },
+  {
+    "uid": "603",
+    "latitude": 33.9460083,
+    "longitude": -84.272014,
+    "country": "United States",
+    "state": "GA",
+    "name": "St. Michael Garden Cemetery Chapel",
+    "city": "Atlanta, GA"
+  },
+  {
+    "uid": "10",
+    "latitude": 34.1833309,
+    "longitude": -84.245607,
+    "country": "United States",
+    "state": "GA",
+    "name": "Joy of All Who Sorrow Orthodox Church",
+    "city": "Cumming, GA"
+  },
+  {
+    "uid": "571",
+    "latitude": 33.791248,
+    "longitude": -84.2984978,
+    "country": "United States",
+    "state": "GA",
+    "name": "All Saints Of North America Mission",
+    "city": "DECATUR, GA"
+  },
+  {
+    "uid": "426",
+    "latitude": 34.6278757713809,
+    "longitude": -84.9555158615112,
+    "country": "United States",
+    "state": "GA",
+    "name": "Ascension Monastery",
+    "city": "Dalton, GA"
+  },
+  {
+    "uid": "11",
+    "latitude": 34.0611026,
+    "longitude": -84.4134913,
+    "country": "United States",
+    "state": "GA",
+    "name": "St. Mary of Egypt Orthodox Church",
+    "city": "Roswell, GA"
+  },
+  {
+    "uid": "134",
+    "latitude": 21.4016551,
+    "longitude": -157.7422015,
+    "country": "United States",
+    "state": "HI",
+    "name": "Holy Theotokos of Iveron Russian Orthodox Church",
+    "city": "Kailua, HI"
+  },
+  {
+    "uid": "565",
+    "latitude": 20.2260076,
+    "longitude": -155.7976662,
+    "country": "United States",
+    "state": "HI",
+    "name": "Our Lady of the Angels Hermitage",
+    "city": "Kapaau, HI"
+  },
+  {
+    "uid": "67",
+    "latitude": 43.6298008206483,
+    "longitude": -116.226596832275,
+    "country": "United States",
+    "state": "ID",
+    "name": "St. Seraphim of Sarov Orthodox Church",
+    "city": "Boise, ID"
+  },
+  {
+    "uid": "613",
+    "latitude": 40.6331249,
+    "longitude": -89.3985283,
+    "country": "United States",
+    "state": "IL",
+    "name": "ORPR Youth Camp",
+    "city": ", IL"
+  },
+  {
+    "uid": "559",
+    "latitude": 39.0951343,
+    "longitude": -89.8020224,
+    "country": "United States",
+    "state": "IL",
+    "name": "Holy Dormition of the Theotokos Church",
+    "city": "Benld, IL"
+  },
+  {
+    "uid": "252",
+    "latitude": 41.8882213455352,
+    "longitude": -88.1432139873505,
+    "country": "United States",
+    "state": "IL",
+    "name": "St. Innocent of Moscow Russian Orthodox Church",
+    "city": "Carol Stream, IL"
+  },
+  {
+    "uid": "402",
+    "latitude": 42.0202809,
+    "longitude": -87.8944182,
+    "country": "United States",
+    "state": "IL",
+    "name": "Diocesan Administration, Diocese of Chicago and Mid-America",
+    "city": "Des Plaines, IL"
+  },
+  {
+    "uid": "52",
+    "latitude": 42.0200792698669,
+    "longitude": -87.894401550293,
+    "country": "United States",
+    "state": "IL",
+    "name": "Holy Virgin Protection Cathedral",
+    "city": "Des Plaines, IL"
+  },
+  {
+    "uid": "614",
+    "latitude": 42.3295485,
+    "longitude": -88.2693095,
+    "country": "United States",
+    "state": "IL",
+    "name": "St. Nicholas Church",
+    "city": "McHenry, IL"
+  },
+  {
+    "uid": "78",
+    "latitude": 37.7653,
+    "longitude": -88.5168,
+    "country": "United States",
+    "state": "IL",
+    "name": "St. Ioasaph of Belgorod Russian Church",
+    "city": "Muddy, IL"
+  },
+  {
+    "uid": "487",
+    "latitude": 40.763297,
+    "longitude": -89.6024452,
+    "country": "United States",
+    "state": "IL",
+    "name": "Holy Transfiguration Orthodox Church",
+    "city": "Peoria, IL"
+  },
+  {
+    "uid": "136",
+    "latitude": 42.4133485,
+    "longitude": -89.468171,
+    "country": "United States",
+    "state": "IL",
+    "name": "St. Vladimir Church",
+    "city": "Rock City, IL"
+  },
+  {
+    "uid": "548",
+    "latitude": 41.0571798,
+    "longitude": -85.1000111,
+    "country": "United States",
+    "state": "IN",
+    "name": "St. Paisius Mission Parish",
+    "city": "Fort Wayne, IN"
+  },
+  {
+    "uid": "138",
+    "latitude": 41.6023826796991,
+    "longitude": -85.8487129211426,
+    "country": "United States",
+    "state": "IN",
+    "name": "Holy Virgin Protection Orthodox Church",
+    "city": "Goshen, IN"
+  },
+  {
+    "uid": "626",
+    "latitude": 39.9473712,
+    "longitude": -86.1439501,
+    "country": "United States",
+    "state": "IN",
+    "name": "Holy Resurrection Orthodox Church",
+    "city": "Indianapolis , IN"
+  },
+  {
+    "uid": "483",
+    "latitude": 41.6228197,
+    "longitude": -86.7138396,
+    "country": "United States",
+    "state": "IN",
+    "name": "St. Joseph of Arimathea Western-Rite Stavropegial Orthodox Church",
+    "city": "La Porte, IN"
+  },
+  {
+    "uid": "335",
+    "latitude": 41.713307,
+    "longitude": -86.877569,
+    "country": "United States",
+    "state": "IN",
+    "name": "St. George Orthodox Church",
+    "city": "Michigan City, IN"
+  },
+  {
+    "uid": "556",
+    "latitude": 37.9735869,
+    "longitude": -87.4331589,
+    "country": "United States",
+    "state": "IN",
+    "name": "St. Anthony the Great Orthodox Church",
+    "city": "Newburgh, IN"
+  },
+  {
+    "uid": "471",
+    "latitude": 41.6813108,
+    "longitude": -86.2036946,
+    "country": "United States",
+    "state": "IN",
+    "name": "St. Nectarios Western-Rite Stavropegial Orthodox Church",
+    "city": "South Bend, IN"
+  },
+  {
+    "uid": "544",
+    "latitude": 41.5351152495707,
+    "longitude": -90.5767376588955,
+    "country": "United States",
+    "state": "IA",
+    "name": "St. Athanasius",
+    "city": "Davenport, IA"
+  },
+  {
+    "uid": "425",
+    "latitude": 41.6005448,
+    "longitude": -93.6091064,
+    "country": "United States",
+    "state": "IA",
+    "name": "St. John the Wonderworker Western-Rite Stavropegial Orthodox Church",
+    "city": "Des Moines, IA"
+  },
+  {
+    "uid": "567",
+    "latitude": 42.4954772,
+    "longitude": -96.4045124,
+    "country": "United States",
+    "state": "IA",
+    "name": "Holy Annunciation Mission",
+    "city": "Sioux City, IA"
+  },
+  {
+    "uid": "86",
+    "latitude": 39.040787,
+    "longitude": -94.702637,
+    "country": "United States",
+    "state": "KS",
+    "name": "Sts. Peter and Fevronia Orthodox Church",
+    "city": "Merriam, KS"
+  },
+  {
+    "uid": "599",
+    "latitude": 38.0487688,
+    "longitude": -84.7033482,
+    "country": "United States",
+    "state": "KY",
+    "name": "Holy St. Matronaof Moscow Mission",
+    "city": "Versailles, KY"
+  },
+  {
+    "uid": "429",
+    "latitude": 30.560476,
+    "longitude": -89.87366,
+    "country": "United States",
+    "state": "LA",
+    "name": "Monastery of Our Lady and Holy Forerunner and Baptist John (with the Convent of St. Mary Magdalene)",
+    "city": "Bush, LA"
+  },
+  {
+    "uid": "497",
+    "latitude": 30.6935593,
+    "longitude": -91.4330266,
+    "country": "United States",
+    "state": "LA",
+    "name": "St. John the Theologian Orthodox Mission",
+    "city": "New Roads, LA"
+  },
+  {
+    "uid": "643",
+    "latitude": 46.8539202,
+    "longitude": -68.0063972,
+    "country": "United States",
+    "state": "ME",
+    "name": "Holy Archangels Mission",
+    "city": "Caribou, ME"
+  },
+  {
+    "uid": "583",
+    "latitude": 46.8324208,
+    "longitude": -68.0418077,
+    "country": "United States",
+    "state": "ME",
+    "name": "St. Spyridon Mission",
+    "city": "Caribou, ME"
+  },
+  {
+    "uid": "397",
+    "latitude": 45.7754783,
+    "longitude": -68.1199035,
+    "country": "United States",
+    "state": "ME",
+    "name": "Surety of Sinners Orthodox Mission",
+    "city": "Drew Plantation, ME"
+  },
+  {
+    "uid": "55",
+    "latitude": 44.09,
+    "longitude": -69.8,
+    "country": "United States",
+    "state": "ME",
+    "name": "St. Alexander Nevsky Orthodox Church",
+    "city": "Richmond, ME"
+  },
+  {
+    "uid": "568",
+    "latitude": 43.4239998,
+    "longitude": -70.7666268,
+    "country": "United States",
+    "state": "ME",
+    "name": "St. Polycarp of Smyrna Church",
+    "city": "Sanford, ME"
+  },
+  {
+    "uid": "573",
+    "latitude": 44.5563938,
+    "longitude": -69.6381258,
+    "country": "United States",
+    "state": "ME",
+    "name": "Holy Archangels Orthodox Church",
+    "city": "Waterville, ME"
+  },
+  {
+    "uid": "585",
+    "latitude": 45.6027179,
+    "longitude": -68.0565875,
+    "country": "United States",
+    "state": "ME",
+    "name": "St. John of Shanghai Mission and &quot;Surety of Sinners&quot; Chapel",
+    "city": "Wytopitlock, ME"
+  },
+  {
+    "uid": "13",
+    "latitude": 39.291651,
+    "longitude": -76.586065,
+    "country": "United States",
+    "state": "MD",
+    "name": "Holy Transfiguration Orthodox Church",
+    "city": "Baltimore, MD"
+  },
+  {
+    "uid": "14",
+    "latitude": 39.031532,
+    "longitude": -76.912128,
+    "country": "United States",
+    "state": "MD",
+    "name": "Holy Apostles Orthodox Church",
+    "city": "Beltsville, MD"
+  },
+  {
+    "uid": "555",
+    "latitude": 39.0258967,
+    "longitude": -77.0717138,
+    "country": "United States",
+    "state": "MD",
+    "name": "St.Thecla Orthodox Church",
+    "city": "Kensington, MD"
+  },
+  {
+    "uid": "379",
+    "latitude": 42.305926,
+    "longitude": -71.433489,
+    "country": "United States",
+    "state": "MA",
+    "name": "Parish of St.John of Shanghai and San Francisco the Miracle Worker",
+    "city": "Framingham , MA"
+  },
+  {
+    "uid": "8",
+    "latitude": 42.678928,
+    "longitude": -70.843478,
+    "country": "United States",
+    "state": "MA",
+    "name": "Orthodox Church of St. John the Russian",
+    "city": "Ipswich, MA"
+  },
+  {
+    "uid": "51",
+    "latitude": 42.698436,
+    "longitude": -71.232731,
+    "country": "United States",
+    "state": "MA",
+    "name": "St. Xenia Orthodox Church",
+    "city": "Methuen, MA"
+  },
+  {
+    "uid": "50",
+    "latitude": 42.2880068,
+    "longitude": -71.1381041,
+    "country": "United States",
+    "state": "MA",
+    "name": "Russian Orthodox Church of the Epiphany",
+    "city": "Roslindale, MA"
+  },
+  {
+    "uid": "584",
+    "latitude": 42.2735647,
+    "longitude": -72.1331207,
+    "country": "United States",
+    "state": "MA",
+    "name": "Holy Protection Orthodox Mission at Holy Protection Chapel and Orthodox Christian Education Center",
+    "city": "West Brookfield, MA"
+  },
+  {
+    "uid": "415",
+    "latitude": 42.2657369,
+    "longitude": -71.8022207,
+    "country": "United States",
+    "state": "MA",
+    "name": "Christ the Savior Mission",
+    "city": "Worcester, MA"
+  },
+  {
+    "uid": "332",
+    "latitude": 47.098816,
+    "longitude": -88.623367,
+    "country": "United States",
+    "state": "MI",
+    "name": "Sts. Sergius and Herman of Valaam Monastery",
+    "city": "Atlantic Mine, MI"
+  },
+  {
+    "uid": "558",
+    "latitude": 44.2589588,
+    "longitude": -85.408761,
+    "country": "United States",
+    "state": "MI",
+    "name": "&quot;Joy of All Who Sorrow&quot; Mission",
+    "city": "Cadillac, MI"
+  },
+  {
+    "uid": "142",
+    "latitude": 42.295055,
+    "longitude": -83.9262825,
+    "country": "United States",
+    "state": "MI",
+    "name": "St. Vladimir Orthodox Church",
+    "city": "Dexter, MI"
+  },
+  {
+    "uid": "143",
+    "latitude": 42.463345,
+    "longitude": -83.143394,
+    "country": "United States",
+    "state": "MI",
+    "name": "Assumption of the Virgin Mary Russian Orthodox Cathedral",
+    "city": "Ferndale, MI"
+  },
+  {
+    "uid": "557",
+    "latitude": 42.0898364,
+    "longitude": -83.1979063,
+    "country": "United States",
+    "state": "MI",
+    "name": "Michael Boyar",
+    "city": "Gibraltar, MI"
+  },
+  {
+    "uid": "648",
+    "latitude": 46.4939528,
+    "longitude": -87.6634933,
+    "country": "United States",
+    "state": "MI",
+    "name": "St. Jacob of Alaska Mission",
+    "city": "Ishpeming, MI"
+  },
+  {
+    "uid": "75",
+    "latitude": 42.759955,
+    "longitude": -85.072244,
+    "country": "United States",
+    "state": "MI",
+    "name": "St. Herman of Alaska Orthodox Church",
+    "city": "Lake Odessa/Woodbury, MI"
+  },
+  {
+    "uid": "180",
+    "latitude": 42.760897,
+    "longitude": -84.543294,
+    "country": "United States",
+    "state": "MI",
+    "name": "St. Seraphim of Sarov Mission",
+    "city": "Lansing, MI"
+  },
+  {
+    "uid": "433",
+    "latitude": 42.4122335,
+    "longitude": -83.3316313,
+    "country": "United States",
+    "state": "MI",
+    "name": "Christ the Saviour Western-Rite Stavropegial Orthodox Church",
+    "city": "Livonia, MI"
+  },
+  {
+    "uid": "620",
+    "latitude": 44.7066439,
+    "longitude": -85.5962173,
+    "country": "United States",
+    "state": "MI",
+    "name": "St. Sebastian Orthodox Mission",
+    "city": "Traverse City, MI"
+  },
+  {
+    "uid": "503",
+    "latitude": 42.4413571,
+    "longitude": -82.9442486,
+    "country": "United States",
+    "state": "MI",
+    "name": "St. Sabbas Russian Orthodox Stavropegial Monastery",
+    "city": "jhtfh, MI"
+  },
+  {
+    "uid": "79",
+    "latitude": 45.071235,
+    "longitude": -93.239123,
+    "country": "United States",
+    "state": "MN",
+    "name": "Resurrection of Christ Russian Orthodox Church and Skete; Chapel of St. Seraphim of Sarov and Holy Elders of Optina",
+    "city": "Fridley, MN"
+  },
+  {
+    "uid": "615",
+    "latitude": 45.0715168,
+    "longitude": -93.2429477,
+    "country": "United States",
+    "state": "MN",
+    "name": "Chapel of Saint Seraphim of Sarov and Holy Elders of Optina",
+    "city": "Fridley-Minneapolis, MN"
+  },
+  {
+    "uid": "144",
+    "latitude": 44.964581,
+    "longitude": -93.2088355,
+    "country": "United States",
+    "state": "MN",
+    "name": "St. Panteleimon Russian Orthodox Church",
+    "city": "Minneapolis, MN"
+  },
+  {
+    "uid": "465",
+    "latitude": 44.974773,
+    "longitude": -93.116584,
+    "country": "United States",
+    "state": "MN",
+    "name": "Saints Aidan and Cuthbert Western-Rite Stavropegial Orthodox Church",
+    "city": "St. Paul, MN"
+  },
+  {
+    "uid": "602",
+    "latitude": 30.3885517,
+    "longitude": -89.3592227,
+    "country": "United States",
+    "state": "MS",
+    "name": "St. John the Wonderworker Mission",
+    "city": "Diamondhead, MS"
+  },
+  {
+    "uid": "623",
+    "latitude": 30.3884784,
+    "longitude": -89.3623312,
+    "country": "United States",
+    "state": "MS",
+    "name": "St. John the Wonderworker",
+    "city": "Diamonhead, , MS"
+  },
+  {
+    "uid": "645",
+    "latitude": 30.3225973,
+    "longitude": -89.2293839,
+    "country": "United States",
+    "state": "MS",
+    "name": "Convent of St. Mary Magdalene",
+    "city": "Pass Christian, MS"
+  },
+  {
+    "uid": "331",
+    "latitude": 38.5804828,
+    "longitude": -90.4505957,
+    "country": "United States",
+    "state": "MO",
+    "name": "St. Basil the Great Orthodox Church",
+    "city": "Des Peres, MO"
+  },
+  {
+    "uid": "94",
+    "latitude": 38.413616,
+    "longitude": -90.585437,
+    "country": "United States",
+    "state": "MO",
+    "name": "St. John Chrysostom Orthodox Church",
+    "city": "House Springs, MO"
+  },
+  {
+    "uid": "683",
+    "latitude": 38.7736375,
+    "longitude": -90.4919335,
+    "country": "United States",
+    "state": "MO",
+    "name": "Saint Genevieve of Paris Orthodox Parish",
+    "city": "St.Charles, MO"
+  },
+  {
+    "uid": "512",
+    "latitude": 41.2067958,
+    "longitude": -96.0261788,
+    "country": "United States",
+    "state": "NE",
+    "name": "Holy Cross Western-Rite Stavropegial Orthodox Church",
+    "city": "Ralston, NE"
+  },
+  {
+    "uid": "550",
+    "latitude": 39.1714007,
+    "longitude": -119.7673835,
+    "country": "United States",
+    "state": "NV",
+    "name": "St. Andrew",
+    "city": "Carson City, NV"
+  },
+  {
+    "uid": "542",
+    "latitude": 39.617509,
+    "longitude": -119.220125,
+    "country": "United States",
+    "state": "NV",
+    "name": "Sant Columba",
+    "city": "Fernley, NV"
+  },
+  {
+    "uid": "653",
+    "latitude": 36.2036027,
+    "longitude": -115.2099199,
+    "country": "United States",
+    "state": "NV",
+    "name": "All Saints Church",
+    "city": "Las Vegas, NV"
+  },
+  {
+    "uid": "237",
+    "latitude": 39.5434306,
+    "longitude": -119.752343,
+    "country": "United States",
+    "state": "NV",
+    "name": "Holy Royal Martyrs of Russia Orthodox Church",
+    "city": "Sparks, NV"
+  },
+  {
+    "uid": "660",
+    "latitude": 41.1701324,
+    "longitude": -74.8029605,
+    "country": "United States",
+    "state": "NJ",
+    "name": "St. Panteleimon Chapel",
+    "city": "Branchville, NJ"
+  },
+  {
+    "uid": "7",
+    "latitude": 41.1706429153213,
+    "longitude": -74.8002433776855,
+    "country": "United States",
+    "state": "NJ",
+    "name": "St. Panteleimon Church",
+    "city": "Branchville, NJ"
+  },
+  {
+    "uid": "48",
+    "latitude": 39.540555,
+    "longitude": -74.898506,
+    "country": "United States",
+    "state": "NJ",
+    "name": "Hermitage of the Holy Protection",
+    "city": "Buena, NJ"
+  },
+  {
+    "uid": "591",
+    "latitude": 40.2684429,
+    "longitude": -74.2784293,
+    "country": "United States",
+    "state": "NJ",
+    "name": "Synodal Skete of St. Nicholas of Myra",
+    "city": "Freehold, NJ"
+  },
+  {
+    "uid": "43",
+    "latitude": 40.114877,
+    "longitude": -74.207066,
+    "country": "United States",
+    "state": "NJ",
+    "name": "St. Alexander Nevsky Orthodox Cathedral and Church of our Lady of Tikhvin",
+    "city": "Howell, NJ"
+  },
+  {
+    "uid": "147",
+    "latitude": 40.173565,
+    "longitude": -74.235497,
+    "country": "United States",
+    "state": "NJ",
+    "name": "St. George Church",
+    "city": "Howell, NJ"
+  },
+  {
+    "uid": "659",
+    "latitude": 40.1238361,
+    "longitude": -74.3948272,
+    "country": "United States",
+    "state": "NJ",
+    "name": "St. Vladimirâ€™s Cemetery",
+    "city": "Jackson, NJ"
+  },
+  {
+    "uid": "42",
+    "latitude": 40.11079,
+    "longitude": -74.392357,
+    "country": "United States",
+    "state": "NJ",
+    "name": "St. Vladimir Memorial Church",
+    "city": "Jackson, NJ"
+  },
+  {
+    "uid": "46",
+    "latitude": 40.4901104,
+    "longitude": -74.4518425,
+    "country": "United States",
+    "state": "NJ",
+    "name": "Holy Virgin Protection Church",
+    "city": "New Brunswick, NJ"
+  },
+  {
+    "uid": "34",
+    "latitude": 40.776055,
+    "longitude": -74.167792,
+    "country": "United States",
+    "state": "NJ",
+    "name": "Our Lady of Kazan Orthodox Church",
+    "city": "Newark, NJ"
+  },
+  {
+    "uid": "36",
+    "latitude": 40.869056,
+    "longitude": -74.123044,
+    "country": "United States",
+    "state": "NJ",
+    "name": "St. Cosmas and Damian Church",
+    "city": "Passaic, NJ"
+  },
+  {
+    "uid": "47",
+    "latitude": 40.39661,
+    "longitude": -74.636694,
+    "country": "United States",
+    "state": "NJ",
+    "name": "St. Elizabeth the New Martyr Orthodox Church",
+    "city": "Rocky Hill, NJ"
+  },
+  {
+    "uid": "154",
+    "latitude": 40.2175364,
+    "longitude": -74.7619222,
+    "country": "United States",
+    "state": "NJ",
+    "name": "Church of the Assumption",
+    "city": "Trenton, NJ"
+  },
+  {
+    "uid": "41",
+    "latitude": 39.488034,
+    "longitude": -75.065578,
+    "country": "United States",
+    "state": "NJ",
+    "name": "Holy Trinity Church",
+    "city": "Vineland, NJ"
+  },
+  {
+    "uid": "98",
+    "latitude": 40.9775362,
+    "longitude": -74.2664875,
+    "country": "United States",
+    "state": "NJ",
+    "name": "St. Michael&#39;s Cathedral",
+    "city": "Wayne, NJ"
+  },
+  {
+    "uid": "651",
+    "latitude": 34.9727305,
+    "longitude": -105.0323635,
+    "country": "United States",
+    "state": "NM",
+    "name": "St. Joseph of Arimathea Orthodox Mission",
+    "city": ", NM"
+  },
+  {
+    "uid": "476",
+    "latitude": 32.7481467,
+    "longitude": -105.9152596,
+    "country": "United States",
+    "state": "NM",
+    "name": "Kellion of St. Anthony the Great",
+    "city": "Alamogordo, NM"
+  },
+  {
+    "uid": "117",
+    "latitude": 32.723717,
+    "longitude": -103.115898,
+    "country": "United States",
+    "state": "NM",
+    "name": "St. Benedict of Nursia Chapel",
+    "city": "Hobbs, NM"
+  },
+  {
+    "uid": "324",
+    "latitude": 35.6712907,
+    "longitude": -106.0048954,
+    "country": "United States",
+    "state": "NM",
+    "name": "St. Juliana of Lazarevo Church",
+    "city": "Santa Fe, NM"
+  },
+  {
+    "uid": "31",
+    "latitude": 42.734087,
+    "longitude": -73.825404,
+    "country": "United States",
+    "state": "NY",
+    "name": "Church of the Nativity of the Mother of God",
+    "city": "Albany, NY"
+  },
+  {
+    "uid": "579",
+    "latitude": 42.2634268,
+    "longitude": -74.6958519,
+    "country": "United States",
+    "state": "NY",
+    "name": "Saint Herman of Alaska Orthodox Church / Cloud-Bearing Mountain Retreat Center",
+    "city": "Bovina, NY"
+  },
+  {
+    "uid": "515",
+    "latitude": 40.5917429,
+    "longitude": -73.9922083,
+    "country": "United States",
+    "state": "NY",
+    "name": "Church of the Holy Myrrhbearing Women",
+    "city": "Brooklyn, NY"
+  },
+  {
+    "uid": "208",
+    "latitude": 40.606413,
+    "longitude": -74.003528,
+    "country": "United States",
+    "state": "NY",
+    "name": "New Martyrs and Confessors of Russia Orthodox Church",
+    "city": "Brooklyn, NY"
+  },
+  {
+    "uid": "183",
+    "latitude": 40.579955,
+    "longitude": -73.959459,
+    "country": "United States",
+    "state": "NY",
+    "name": "Church of The Mother of God Inexhaustable Cup and St. John of Kronstadt Chapel",
+    "city": "Brooklyn, NY"
+  },
+  {
+    "uid": "53",
+    "latitude": 42.1,
+    "longitude": -76.07,
+    "country": "United States",
+    "state": "NY",
+    "name": "St. Nicholas Orthodox Church",
+    "city": "Endicott, NY"
+  },
+  {
+    "uid": "27",
+    "latitude": 40.758053,
+    "longitude": -73.816483,
+    "country": "United States",
+    "state": "NY",
+    "name": "Holy Annunciation Church",
+    "city": "Flushing, NY"
+  },
+  {
+    "uid": "505",
+    "latitude": 42.3594133454682,
+    "longitude": -75.1560708470215,
+    "country": "United States",
+    "state": "NY",
+    "name": "Church of the Holy Life-Creating Trinity at St. Innocent of Moscow Retreat Center",
+    "city": "Franklin, NY"
+  },
+  {
+    "uid": "25",
+    "latitude": 40.86905,
+    "longitude": -73.641454,
+    "country": "United States",
+    "state": "NY",
+    "name": "Church of the Intercession of the Holy Virgin and St. Sergius",
+    "city": "Glen Cove, NY"
+  },
+  {
+    "uid": "538",
+    "latitude": 41.7898341,
+    "longitude": -73.8658902,
+    "country": "United States",
+    "state": "NY",
+    "name": "St. Luke the Evangelist Mission",
+    "city": "Hyde Park, NY"
+  },
+  {
+    "uid": "59",
+    "latitude": 43.03,
+    "longitude": -76.1,
+    "country": "United States",
+    "state": "NY",
+    "name": "Entrance into the Temple of the Holy Virgin Church",
+    "city": "Jamesville, NY"
+  },
+  {
+    "uid": "56",
+    "latitude": 42.930159363562,
+    "longitude": -74.9351692199707,
+    "country": "United States",
+    "state": "NY",
+    "name": "Holy Trinity Stavropegial Monastery",
+    "city": "Jordanville, NY"
+  },
+  {
+    "uid": "453",
+    "latitude": 41.3961073973625,
+    "longitude": -73.7193112120727,
+    "country": "United States",
+    "state": "NY",
+    "name": "Nativity of the Holy Mother of God at the Hermitage of Our Lady of Kursk",
+    "city": "Mahopac, NY"
+  },
+  {
+    "uid": "24",
+    "latitude": 41.373214,
+    "longitude": -73.7321429,
+    "country": "United States",
+    "state": "NY",
+    "name": "New Kursk Root Stavropegial Hermitage",
+    "city": "Mahopac, NY"
+  },
+  {
+    "uid": "616",
+    "latitude": 42.918191,
+    "longitude": -74.924179,
+    "country": "United States",
+    "state": "NY",
+    "name": "Iveron Mother of God Monastery",
+    "city": "Mohawk, NY"
+  },
+  {
+    "uid": "586",
+    "latitude": 42.5464951,
+    "longitude": -75.2501048,
+    "country": "United States",
+    "state": "NY",
+    "name": "Chapel of the Seven Youths of Ephesus",
+    "city": "Morris, NY"
+  },
+  {
+    "uid": "29",
+    "latitude": 41.111687,
+    "longitude": -74.023736,
+    "country": "United States",
+    "state": "NY",
+    "name": "Holy Dormition Novo-Diveevo Stavropegial Convent",
+    "city": "Nanuet, NY"
+  },
+  {
+    "uid": "156",
+    "latitude": 40.7681182,
+    "longitude": -73.9141432,
+    "country": "United States",
+    "state": "NY",
+    "name": "Holy Trinity Church",
+    "city": "New York, NY"
+  },
+  {
+    "uid": "20",
+    "latitude": 40.7848274,
+    "longitude": -73.9544688,
+    "country": "United States",
+    "state": "NY",
+    "name": "Synodal Cathedral of the Mother of God of the Sign",
+    "city": "New York, NY"
+  },
+  {
+    "uid": "590",
+    "latitude": 40.7664678,
+    "longitude": -73.9103834,
+    "country": "United States",
+    "state": "NY",
+    "name": "Chapel of St. Anastasia of Serbia",
+    "city": "New York, NY"
+  },
+  {
+    "uid": "385",
+    "latitude": 40.7848274,
+    "longitude": -73.9544688,
+    "country": "United States",
+    "state": "NY",
+    "name": "Church of St. Sergius of Radonezh at the Synodal Cathedral",
+    "city": "New York, NY"
+  },
+  {
+    "uid": "609",
+    "latitude": 40.8691673,
+    "longitude": -73.6241165,
+    "country": "United States",
+    "state": "NY",
+    "name": "St. Andrew Orthodox Mission",
+    "city": "New York, NY"
+  },
+  {
+    "uid": "587",
+    "latitude": 40.5867442,
+    "longitude": -73.8091438,
+    "country": "United States",
+    "state": "NY",
+    "name": "Parish of the Holy Apostle and Evangelist Mark",
+    "city": "New York, NY"
+  },
+  {
+    "uid": "588",
+    "latitude": 40.8112487,
+    "longitude": -73.9616618,
+    "country": "United States",
+    "state": "NY",
+    "name": "Parish of St. Gregory the Theologian at Union Theological Seminary",
+    "city": "New York, NY"
+  },
+  {
+    "uid": "163",
+    "latitude": 40.8306732,
+    "longitude": -73.9453636,
+    "country": "United States",
+    "state": "NY",
+    "name": "Holy Fathers Church",
+    "city": "New York, NY"
+  },
+  {
+    "uid": "589",
+    "latitude": 40.610198,
+    "longitude": -73.9749335,
+    "country": "United States",
+    "state": "NY",
+    "name": "St. Joasaph of Belgorod Church",
+    "city": "New York, NY"
+  },
+  {
+    "uid": "391",
+    "latitude": 43.0872,
+    "longitude": -79.0386105,
+    "country": "United States",
+    "state": "NY",
+    "name": "Christminster Western-Rite Stavropegial Monastery",
+    "city": "Niagara Falls, NY"
+  },
+  {
+    "uid": "22",
+    "latitude": 43.173642,
+    "longitude": -74.102484,
+    "country": "United States",
+    "state": "NY",
+    "name": "Great Martyr George Chapel",
+    "city": "Northville, NY"
+  },
+  {
+    "uid": "28",
+    "latitude": 41.088598,
+    "longitude": -73.922594,
+    "country": "United States",
+    "state": "NY",
+    "name": "Holy Virgin Protection Church",
+    "city": "Nyack, NY"
+  },
+  {
+    "uid": "38",
+    "latitude": 41.692675,
+    "longitude": -73.931007,
+    "country": "United States",
+    "state": "NY",
+    "name": "St. Nicholas Church",
+    "city": "Poughkeepsie, NY"
+  },
+  {
+    "uid": "434",
+    "latitude": 41.3584755,
+    "longitude": -73.8681441,
+    "country": "United States",
+    "state": "NY",
+    "name": "St. Ambrose of Milan Western-Rite Stavropegial Orthodox Church",
+    "city": "Putnam Valley, NY"
+  },
+  {
+    "uid": "166",
+    "latitude": 40.6900246,
+    "longitude": -73.8213213,
+    "country": "United States",
+    "state": "NY",
+    "name": "Russian Orthodox Church of the Assumption",
+    "city": "Richmond Hill, NY"
+  },
+  {
+    "uid": "58",
+    "latitude": 43.15,
+    "longitude": -77.53,
+    "country": "United States",
+    "state": "NY",
+    "name": "Protection of the Mother of God Russian Orthodox Church",
+    "city": "Rochester, NY"
+  },
+  {
+    "uid": "452",
+    "latitude": 40.8839029,
+    "longitude": -73.1657349,
+    "country": "United States",
+    "state": "NY",
+    "name": "Monastery of St Dionysios the Areopagite",
+    "city": "Saint James , NY"
+  },
+  {
+    "uid": "26",
+    "latitude": 40.8517287,
+    "longitude": -73.6418912,
+    "country": "United States",
+    "state": "NY",
+    "name": "St. Seraphim of Sarov Orthodox Church",
+    "city": "Sea Cliff, NY"
+  },
+  {
+    "uid": "336",
+    "latitude": 41.084626,
+    "longitude": -74.04258,
+    "country": "United States",
+    "state": "NY",
+    "name": "Icon of the Mother of God &quot;Otrada&quot; Chapel",
+    "city": "Spring Valley, NY"
+  },
+  {
+    "uid": "377",
+    "latitude": 40.6305623,
+    "longitude": -74.0819202,
+    "country": "United States",
+    "state": "NY",
+    "name": "Church of the Icon of the Mother of God &quot;Unexpected Joy&quot;",
+    "city": "Staten Island, NY"
+  },
+  {
+    "uid": "522",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "country": "United States",
+    "state": "NY",
+    "name": "Fr Symeon Najmanje [Kilmer]",
+    "city": "Syracuse, NY"
+  },
+  {
+    "uid": "60",
+    "latitude": 43.09,
+    "longitude": -75.22,
+    "country": "United States",
+    "state": "NY",
+    "name": "St. John of Kronstadt Orthodox Memorial Church",
+    "city": "Utica, NY"
+  },
+  {
+    "uid": "32",
+    "latitude": 42.959541,
+    "longitude": -78.74874,
+    "country": "United States",
+    "state": "NY",
+    "name": "Sts. Theodore Orthodox Church",
+    "city": "Williamsville, NY"
+  },
+  {
+    "uid": "316",
+    "latitude": 41.7958880981914,
+    "longitude": -74.551420211792,
+    "country": "United States",
+    "state": "NY",
+    "name": "Sts. Peter and Paul Chapel",
+    "city": "Woodbourne, NY"
+  },
+  {
+    "uid": "469",
+    "latitude": 41.7010677,
+    "longitude": -73.9245396,
+    "country": "United States",
+    "state": "NY",
+    "name": "saint george russian orthodox mission",
+    "city": "poughkeepsie, NY"
+  },
+  {
+    "uid": "600",
+    "latitude": 35.7595731,
+    "longitude": -79.0192997,
+    "country": "United States",
+    "state": "NC",
+    "name": "Saint Herman Mission",
+    "city": ", NC"
+  },
+  {
+    "uid": "3",
+    "latitude": 35.292074,
+    "longitude": -80.837323,
+    "country": "United States",
+    "state": "NC",
+    "name": "Orthodox Church of the Reigning Mother of God",
+    "city": "Charlotte, NC"
+  },
+  {
+    "uid": "606",
+    "latitude": 35.2242053,
+    "longitude": -82.0357101,
+    "country": "United States",
+    "state": "NC",
+    "name": "Chapel of Righteous Anna at Chapel Hills Winery",
+    "city": "Columbus, NC"
+  },
+  {
+    "uid": "4",
+    "latitude": 35.438734,
+    "longitude": -82.528058,
+    "country": "United States",
+    "state": "NC",
+    "name": "St. Nicholas Orthodox Church",
+    "city": "Fletcher, NC"
+  },
+  {
+    "uid": "531",
+    "latitude": 35.2153508,
+    "longitude": -81.1116052,
+    "country": "United States",
+    "state": "NC",
+    "name": "Holy Wisdom Orthodox Church",
+    "city": "Gastonia, NC"
+  },
+  {
+    "uid": "604",
+    "latitude": 35.7451353,
+    "longitude": -81.3359019,
+    "country": "United States",
+    "state": "NC",
+    "name": "St. Timothy the Apostle Mission",
+    "city": "Hickory, NC"
+  },
+  {
+    "uid": "1",
+    "latitude": 36.087084,
+    "longitude": -79.235732,
+    "country": "United States",
+    "state": "NC",
+    "name": "Holy Trinity Orthodox Church",
+    "city": "Mebane, NC"
+  },
+  {
+    "uid": "576",
+    "latitude": 36.2104532,
+    "longitude": -80.3884594,
+    "country": "United States",
+    "state": "NC",
+    "name": "St. Thomas the Apostle Russian Orthodox Mission",
+    "city": "Tobaccoville, NC"
+  },
+  {
+    "uid": "381",
+    "latitude": 46.9091662,
+    "longitude": -96.787376,
+    "country": "United States",
+    "state": "ND",
+    "name": "All Saints Orthodox Church and Mission",
+    "city": "Fargo, ND"
+  },
+  {
+    "uid": "491",
+    "latitude": 39.2028354,
+    "longitude": -84.5475436,
+    "country": "United States",
+    "state": "OH",
+    "name": "St. Mary of Egypt Stavropegial Western-Rite Orthodox Church",
+    "city": "Cincinnati, OH"
+  },
+  {
+    "uid": "384",
+    "latitude": 40.0088039,
+    "longitude": -83.0009271,
+    "country": "United States",
+    "state": "OH",
+    "name": "St. John of San Francisco Mission",
+    "city": "Columbus, OH"
+  },
+  {
+    "uid": "624",
+    "latitude": 41.334193,
+    "longitude": -81.177667,
+    "country": "United States",
+    "state": "OH",
+    "name": "Monastery of St. John the Theologian",
+    "city": "Hiram, OH"
+  },
+  {
+    "uid": "189",
+    "latitude": 39.274139,
+    "longitude": -84.2836279,
+    "country": "United States",
+    "state": "OH",
+    "name": "St. George Orthodox Church",
+    "city": "Loveland, OH"
+  },
+  {
+    "uid": "175",
+    "latitude": 41.385776,
+    "longitude": -81.684803,
+    "country": "United States",
+    "state": "OH",
+    "name": "St. Sergius Cathedral",
+    "city": "Parma, OH"
+  },
+  {
+    "uid": "83",
+    "latitude": 41.39813,
+    "longitude": -82.647298,
+    "country": "United States",
+    "state": "OH",
+    "name": "St. Tikhon Orthodox Community",
+    "city": "Sandusky, OH"
+  },
+  {
+    "uid": "323",
+    "latitude": 40.107097,
+    "longitude": -83.754467,
+    "country": "United States",
+    "state": "OH",
+    "name": "Kazan Mother of God Church",
+    "city": "Urbana, OH"
+  },
+  {
+    "uid": "91",
+    "latitude": 35.409558,
+    "longitude": -97.449894,
+    "country": "United States",
+    "state": "OK",
+    "name": "St. Benedict Orthodox Church",
+    "city": "Oklahoma City, OK"
+  },
+  {
+    "uid": "529",
+    "latitude": 36.1156071,
+    "longitude": -97.0583681,
+    "country": "United States",
+    "state": "OK",
+    "name": "St Nino Equal-to-the-Apostles Orthodox Church",
+    "city": "Stillwater, OK"
+  },
+  {
+    "uid": "69",
+    "latitude": 44.6046088,
+    "longitude": -123.2582424,
+    "country": "United States",
+    "state": "OR",
+    "name": "St. Martin the Merciful Church",
+    "city": "Corvallis, OR"
+  },
+  {
+    "uid": "68",
+    "latitude": 45.2439222,
+    "longitude": -122.5829457,
+    "country": "United States",
+    "state": "OR",
+    "name": "New Russian Martyrs Church",
+    "city": "Mulino, OR"
+  },
+  {
+    "uid": "176",
+    "latitude": 42.429259,
+    "longitude": -123.161554,
+    "country": "United States",
+    "state": "OR",
+    "name": "Church of St. Innocent of Irkutsk",
+    "city": "Rogue River, OR"
+  },
+  {
+    "uid": "592",
+    "latitude": 40.0610488,
+    "longitude": -79.8865024,
+    "country": "United States",
+    "state": "PA",
+    "name": "Holy Trinity Cemetery",
+    "city": ", PA"
+  },
+  {
+    "uid": "493",
+    "latitude": 40.5845867,
+    "longitude": -79.999543,
+    "country": "United States",
+    "state": "PA",
+    "name": "Our Lady of Walsingham Staropegial Western-Rite Orthodox Church",
+    "city": "Allison Park, PA"
+  },
+  {
+    "uid": "177",
+    "latitude": 40.1459559,
+    "longitude": -79.7898125,
+    "country": "United States",
+    "state": "PA",
+    "name": "St. Basil the Great Orthodox Church",
+    "city": "Belle Vernon, PA"
+  },
+  {
+    "uid": "325",
+    "latitude": 40.061812,
+    "longitude": -79.885772,
+    "country": "United States",
+    "state": "PA",
+    "name": "Holy Trinity Church",
+    "city": "California, PA"
+  },
+  {
+    "uid": "661",
+    "latitude": 40.0612249,
+    "longitude": -79.8858594,
+    "country": "United States",
+    "state": "PA",
+    "name": "Holy Trinity Cemetery",
+    "city": "California, PA"
+  },
+  {
+    "uid": "23",
+    "latitude": 42.136058,
+    "longitude": -80.082644,
+    "country": "United States",
+    "state": "PA",
+    "name": "Nativity of Christ Church",
+    "city": "Erie, PA"
+  },
+  {
+    "uid": "263",
+    "latitude": 40.667798,
+    "longitude": -79.055022,
+    "country": "United States",
+    "state": "PA",
+    "name": "Christ Our Savior Orthodox Church",
+    "city": "Indiana, PA"
+  },
+  {
+    "uid": "662",
+    "latitude": 40.965083,
+    "longitude": -76.8831983,
+    "country": "United States",
+    "state": "PA",
+    "name": "St. John the Wonderworker of America Mission",
+    "city": "Lewisburg, PA"
+  },
+  {
+    "uid": "537",
+    "latitude": 40.9651087,
+    "longitude": -76.8831912,
+    "country": "United States",
+    "state": "PA",
+    "name": "St. John of Shanghai and San Francisco Russian Orthodox Mission Church",
+    "city": "Lewisburg, PA"
+  },
+  {
+    "uid": "179",
+    "latitude": 41.5377692,
+    "longitude": -75.5353606,
+    "country": "United States",
+    "state": "PA",
+    "name": "St. John the Baptist Church",
+    "city": "Mayfield, PA"
+  },
+  {
+    "uid": "593",
+    "latitude": 40.3495,
+    "longitude": -79.8633395,
+    "country": "United States",
+    "state": "PA",
+    "name": "Dormition Church",
+    "city": "McKeesport, PA"
+  },
+  {
+    "uid": "320",
+    "latitude": 41.3808928,
+    "longitude": -75.7409156,
+    "country": "United States",
+    "state": "PA",
+    "name": "St. Stephen Russian Orthodox Church",
+    "city": "Old Forge, PA"
+  },
+  {
+    "uid": "19",
+    "latitude": 39.9642623,
+    "longitude": -75.1710913,
+    "country": "United States",
+    "state": "PA",
+    "name": "Church of Our Lady â€˜â€˜The Joy of All in Sorrowâ€™â€™",
+    "city": "Philadelphia, PA"
+  },
+  {
+    "uid": "188",
+    "latitude": 41.594962,
+    "longitude": -75.485683,
+    "country": "United States",
+    "state": "PA",
+    "name": "St. Basil&#39;s Russian Orthodox Church",
+    "city": "Simpson, PA"
+  },
+  {
+    "uid": "181",
+    "latitude": 41.1979265,
+    "longitude": -75.9228481,
+    "country": "United States",
+    "state": "PA",
+    "name": "Christ the Saviour Orthodox Church",
+    "city": "Sugar Notch, PA"
+  },
+  {
+    "uid": "435",
+    "latitude": 40.1413766,
+    "longitude": -74.8129466,
+    "country": "United States",
+    "state": "PA",
+    "name": "Christ the King Western-Rite Stavropegial Orthodox Church",
+    "city": "Tullytown, PA"
+  },
+  {
+    "uid": "340",
+    "latitude": 40.3450499,
+    "longitude": -79.8464804,
+    "country": "United States",
+    "state": "PA",
+    "name": "Holy Virgin Dormition Church",
+    "city": "ÐœÐ°ÐºÐºÐ¸ÑÐ¿Ð¾Ñ€Ñ‚ , PA"
+  },
+  {
+    "uid": "418",
+    "latitude": 18.0808333,
+    "longitude": -67.0408333,
+    "country": "United States",
+    "state": "PR",
+    "name": "San Juan Climacos Orthodox Mission",
+    "city": "San German, PR"
+  },
+  {
+    "uid": "436",
+    "latitude": 41.866704,
+    "longitude": -71.3847399,
+    "country": "United States",
+    "state": "RI",
+    "name": "St. Cuthbert Western-Rite Stavropegial Orthodox Church",
+    "city": "Pawtucket, RI"
+  },
+  {
+    "uid": "6",
+    "latitude": 33.0200338,
+    "longitude": -80.1762377,
+    "country": "United States",
+    "state": "SC",
+    "name": "Sts. Cyril and Methodius Orthodox Christian Church",
+    "city": "Summerville, SC"
+  },
+  {
+    "uid": "5",
+    "latitude": 33.9872429,
+    "longitude": -81.081998,
+    "country": "United States",
+    "state": "SC",
+    "name": "St. Elizabeth the New Martyr Orthodox Church",
+    "city": "West Columbia, SC"
+  },
+  {
+    "uid": "21",
+    "latitude": 36.5323002,
+    "longitude": -82.3237175,
+    "country": "United States",
+    "state": "TN",
+    "name": "St. Tikhon the New-Martyr Church",
+    "city": "Blountville, TN"
+  },
+  {
+    "uid": "570",
+    "latitude": 35.0438805,
+    "longitude": -85.2939283,
+    "country": "United States",
+    "state": "TN",
+    "name": "Saint Bartholomew Russian Orthodox Church",
+    "city": "Chattanooga, TN"
+  },
+  {
+    "uid": "551",
+    "latitude": 35.0110531,
+    "longitude": -85.1446346,
+    "country": "United States",
+    "state": "TN",
+    "name": "Christ the Savior, Mission Orthodox Church",
+    "city": "Chattanooga, TN"
+  },
+  {
+    "uid": "539",
+    "latitude": 35.565358,
+    "longitude": -85.107017,
+    "country": "United States",
+    "state": "TN",
+    "name": "St. Mary the Virgin Orthodox Skete",
+    "city": "Dayton, TN"
+  },
+  {
+    "uid": "530",
+    "latitude": 35.565358,
+    "longitude": -85.107017,
+    "country": "United States",
+    "state": "TN",
+    "name": "Saint Mary the Virgin Orthodox Church",
+    "city": "Dayton, TN"
+  },
+  {
+    "uid": "634",
+    "latitude": 36.2523762,
+    "longitude": -86.1474722,
+    "country": "United States",
+    "state": "TN",
+    "name": "St. Elizabeth the New-Martyr Church",
+    "city": "Lebanon, TN"
+  },
+  {
+    "uid": "422",
+    "latitude": 35.8786537576802,
+    "longitude": -84.3243598937988,
+    "country": "United States",
+    "state": "TN",
+    "name": "St. Nektarios Church",
+    "city": "Lenoir City, TN"
+  },
+  {
+    "uid": "400",
+    "latitude": 36.1830184,
+    "longitude": -86.792758,
+    "country": "United States",
+    "state": "TN",
+    "name": "St. Innocent Mission",
+    "city": "Nashville, TN"
+  },
+  {
+    "uid": "605",
+    "latitude": 35.8045936,
+    "longitude": -83.5797779,
+    "country": "United States",
+    "state": "TN",
+    "name": "Holy Prophet Elijah Mission",
+    "city": "Pigeon Forge, TN"
+  },
+  {
+    "uid": "182",
+    "latitude": 30.6629095,
+    "longitude": -96.3703575,
+    "country": "United States",
+    "state": "TX",
+    "name": "Theotokos of the Life-Giving Spring Orthodox Mission",
+    "city": "Bryan, TX"
+  },
+  {
+    "uid": "554",
+    "latitude": 27.6650544,
+    "longitude": -97.3879361,
+    "country": "United States",
+    "state": "TX",
+    "name": "Holly Cross Orthodox Mission",
+    "city": "Corpus Christi, TX"
+  },
+  {
+    "uid": "92",
+    "latitude": 30.6604921,
+    "longitude": -97.6934348,
+    "country": "United States",
+    "state": "TX",
+    "name": "Holy Mother of God Orthodox Church",
+    "city": "Georgetown, TX"
+  },
+  {
+    "uid": "102",
+    "latitude": 29.8448725,
+    "longitude": -95.3993093,
+    "country": "United States",
+    "state": "TX",
+    "name": "St. Vladimir Orthodox Church",
+    "city": "Houston, TX"
+  },
+  {
+    "uid": "509",
+    "latitude": 29.8836915,
+    "longitude": -97.6723854,
+    "country": "United States",
+    "state": "TX",
+    "name": "St. Andrew the First-Called Orthodox Church",
+    "city": "Lockhart, TX"
+  },
+  {
+    "uid": "553",
+    "latitude": 33.580831,
+    "longitude": -101.8688121,
+    "country": "United States",
+    "state": "TX",
+    "name": "SAINT CATHERINE THE GREAT-MARTYR  ORTHODOX CHRISTIAN COMMUNITY",
+    "city": "Lubbock, TX"
+  },
+  {
+    "uid": "577",
+    "latitude": 32.5544847,
+    "longitude": -94.3688987,
+    "country": "United States",
+    "state": "TX",
+    "name": "St Joseph The All Comely",
+    "city": "Marshall , TX"
+  },
+  {
+    "uid": "339",
+    "latitude": 33.190774,
+    "longitude": -96.614172,
+    "country": "United States",
+    "state": "TX",
+    "name": "St. Nicholas Russian Orthodox Church",
+    "city": "McKinney, TX"
+  },
+  {
+    "uid": "488",
+    "latitude": 29.5265358,
+    "longitude": -98.6235836,
+    "country": "United States",
+    "state": "TX",
+    "name": "Sts. Joachim and Anna Orthodox Mission",
+    "city": "San Antonio, TX"
+  },
+  {
+    "uid": "309",
+    "latitude": 30.065836,
+    "longitude": -95.461509,
+    "country": "United States",
+    "state": "TX",
+    "name": "St. Jonah Orthodox Church",
+    "city": "Spring, TX"
+  },
+  {
+    "uid": "186",
+    "latitude": 40.627879,
+    "longitude": -111.929927,
+    "country": "United States",
+    "state": "UT",
+    "name": "St. George Russian Orthodox Church",
+    "city": "West Jordan, UT"
+  },
+  {
+    "uid": "581",
+    "latitude": 44.4758442,
+    "longitude": -73.212121,
+    "country": "United States",
+    "state": "VT",
+    "name": "Saint Michael the Archangel Orthodox Mission",
+    "city": "Burlington, VT"
+  },
+  {
+    "uid": "582",
+    "latitude": 37.783623,
+    "longitude": -77.1339567,
+    "country": "United States",
+    "state": "VA",
+    "name": "Holy Trinity Orthodox Church",
+    "city": "Aylett, VA"
+  },
+  {
+    "uid": "578",
+    "latitude": 38.7540642,
+    "longitude": -77.5632853,
+    "country": "United States",
+    "state": "VA",
+    "name": "Holy Innocents & St Nina",
+    "city": "Bristow, VA"
+  },
+  {
+    "uid": "597",
+    "latitude": 36.7610734,
+    "longitude": -76.361775,
+    "country": "United States",
+    "state": "VA",
+    "name": "St. Joseph of Optina Church",
+    "city": "Chesapeake, VA"
+  },
+  {
+    "uid": "646",
+    "latitude": 37.891746,
+    "longitude": -77.969347,
+    "country": "United States",
+    "state": "VA",
+    "name": "Mission of St. Anna",
+    "city": "Louisa, VA"
+  },
+  {
+    "uid": "621",
+    "latitude": 38.3360373,
+    "longitude": -78.8627361,
+    "country": "United States",
+    "state": "VA",
+    "name": "Holy Myrrhbearers Orthodox Christian Church",
+    "city": "Mt. Crawford, VA"
+  },
+  {
+    "uid": "598",
+    "latitude": 37.599024,
+    "longitude": -79.5942933,
+    "country": "United States",
+    "state": "VA",
+    "name": "Chapel of the Mother of God &quot;Inexhaustible Cup&quot;",
+    "city": "Natural Bridge Station, VA"
+  },
+  {
+    "uid": "596",
+    "latitude": 37.6308775,
+    "longitude": -77.4515749,
+    "country": "United States",
+    "state": "VA",
+    "name": "Mission of St. Gregory Palamas",
+    "city": "Richmond, VA"
+  },
+  {
+    "uid": "543",
+    "latitude": 37.9036169,
+    "longitude": -77.468417,
+    "country": "United States",
+    "state": "VA",
+    "name": "Saint Tikhon Orthodox Church",
+    "city": "Ruther Glen, VA"
+  },
+  {
+    "uid": "569",
+    "latitude": 38.2444606,
+    "longitude": -77.6713963,
+    "country": "United States",
+    "state": "VA",
+    "name": "Saint Demetrios of Thessaloniki  Monastery",
+    "city": "Spotsylvania, VA"
+  },
+  {
+    "uid": "495",
+    "latitude": 38.474415,
+    "longitude": -77.341406,
+    "country": "United States",
+    "state": "VA",
+    "name": "St. Herman of Alaska Church",
+    "city": "Stafford, VA"
+  },
+  {
+    "uid": "574",
+    "latitude": 38.4961475,
+    "longitude": -77.5220591,
+    "country": "United States",
+    "state": "VA",
+    "name": "Church of the Assumption",
+    "city": "Stafford , VA"
+  },
+  {
+    "uid": "194",
+    "latitude": 36.816172,
+    "longitude": -76.16328,
+    "country": "United States",
+    "state": "VA",
+    "name": "St. Joseph of Optina Russian Orthodox Church",
+    "city": "Virginia Beach, VA"
+  },
+  {
+    "uid": "685",
+    "latitude": 47.7510741,
+    "longitude": -120.7401386,
+    "country": "United States",
+    "state": "WA",
+    "name": "Philippine Mission of the Russian Orthodox Church",
+    "city": ", WA"
+  },
+  {
+    "uid": "477",
+    "latitude": 46.200524,
+    "longitude": -119.277642,
+    "country": "United States",
+    "state": "WA",
+    "name": "St. John Orthodox Mission",
+    "city": "Kennewick, WA"
+  },
+  {
+    "uid": "33",
+    "latitude": 47.616629,
+    "longitude": -122.315585,
+    "country": "United States",
+    "state": "WA",
+    "name": "St. Nicholas Cathedral",
+    "city": "Seattle, WA"
+  },
+  {
+    "uid": "535",
+    "latitude": 47.6462594,
+    "longitude": -122.6957038,
+    "country": "United States",
+    "state": "WA",
+    "name": "St. Innocent Orthodox Church",
+    "city": "Silverdale, WA"
+  },
+  {
+    "uid": "572",
+    "latitude": 48.2468671,
+    "longitude": -122.3223395,
+    "country": "United States",
+    "state": "WA",
+    "name": "St. Gabriel the Archangel",
+    "city": "Stanwood, WA"
+  },
+  {
+    "uid": "74",
+    "latitude": 47.3646564,
+    "longitude": -122.4617547,
+    "country": "United States",
+    "state": "WA",
+    "name": "All-Merciful Saviour Monastery",
+    "city": "Vashon Island, WA"
+  },
+  {
+    "uid": "81",
+    "latitude": 46.0649119,
+    "longitude": -118.3251125,
+    "country": "United States",
+    "state": "WA",
+    "name": "St. Silouan Orthodox Church",
+    "city": "Walla Walla, WA"
+  },
+  {
+    "uid": "541",
+    "latitude": 37.4115156,
+    "longitude": -81.4732742,
+    "country": "United States",
+    "state": "WV",
+    "name": "St. Leonard Orthodox Church",
+    "city": "Keystone, WV"
+  },
+  {
+    "uid": "595",
+    "latitude": 38.2407584,
+    "longitude": -82.3514406,
+    "country": "United States",
+    "state": "WV",
+    "name": "St. John of Damascus Chapel",
+    "city": "Wayne, WV"
+  },
+  {
+    "uid": "49",
+    "latitude": 38.2232021,
+    "longitude": -82.354842,
+    "country": "United States",
+    "state": "WV",
+    "name": "Holy Cross Monastery",
+    "city": "Wayne, WV"
+  },
+  {
+    "uid": "89",
+    "latitude": 38.22691,
+    "longitude": -82.347472,
+    "country": "United States",
+    "state": "WV",
+    "name": "Convent of the Nativity of the Virgin Mary",
+    "city": "Wayne, WV"
+  },
+  {
+    "uid": "15",
+    "latitude": 38.2593791255758,
+    "longitude": -82.4483156204224,
+    "country": "United States",
+    "state": "WV",
+    "name": "Christ the Savior Orthodox Church",
+    "city": "Wayne, WV"
+  },
+  {
+    "uid": "37",
+    "latitude": 44.266004,
+    "longitude": -88.399613,
+    "country": "United States",
+    "state": "WI",
+    "name": "Nativity of the Mother of God Orthodox Mission",
+    "city": "Appleton, WI"
+  },
+  {
+    "uid": "255",
+    "latitude": 43.175402,
+    "longitude": -90.589343,
+    "country": "United States",
+    "state": "WI",
+    "name": "St. John the Baptist Church",
+    "city": "Blue River, WI"
+  },
+  {
+    "uid": "64",
+    "latitude": 45.002979,
+    "longitude": -89.896776,
+    "country": "United States",
+    "state": "WI",
+    "name": "Kursk Icon of the Mother of God Mission",
+    "city": "Edgar, WI"
+  },
+  {
+    "uid": "439",
+    "latitude": 42.591462,
+    "longitude": -87.819837,
+    "country": "United States",
+    "state": "WI",
+    "name": "St. Paul the Apostle Western-Rite Stavropegial Orthodox Church",
+    "city": "Kenosha, WI"
+  },
+  {
+    "uid": "184",
+    "latitude": 42.9789249,
+    "longitude": -88.020857,
+    "country": "United States",
+    "state": "WI",
+    "name": "Holy Trinity Russian Orthodox Church",
+    "city": "Milwaukee, WI"
+  },
+  {
+    "uid": "563",
+    "latitude": 43.5411292,
+    "longitude": -89.4627516,
+    "country": "United States",
+    "state": "WI",
+    "name": "St John of Shanghai Mission",
+    "city": "Portage, WI"
+  },
+  {
+    "uid": "190",
+    "latitude": 52.749905,
+    "longitude": -114.292607,
+    "country": "Canada",
+    "state": "AB",
+    "name": "Holy Virgin Protection Convent",
+    "city": "Bluffton, AB"
+  },
+  {
+    "uid": "61",
+    "latitude": 51.06,
+    "longitude": -114.04,
+    "country": "Canada",
+    "state": "AB",
+    "name": "All Saints Orthodox Church",
+    "city": "Calgary, AB"
+  },
+  {
+    "uid": "411",
+    "latitude": 50.9258724,
+    "longitude": -113.9829784,
+    "country": "Canada",
+    "state": "AB",
+    "name": "St. John Chrysostom Church",
+    "city": "Calgary, AB"
+  },
+  {
+    "uid": "666",
+    "latitude": 50.9603245,
+    "longitude": -114.1041279,
+    "country": "Canada",
+    "state": "AB",
+    "name": "Russian Orthodox Church of St. John of Shanghai and San Francisco",
+    "city": "Calgary, AB"
+  },
+  {
+    "uid": "667",
+    "latitude": 53.5863224,
+    "longitude": -113.4464402,
+    "country": "Canada",
+    "state": "AB",
+    "name": "St. Vladimir Cathedral",
+    "city": "Edmonton, AB"
+  },
+  {
+    "uid": "373",
+    "latitude": 53.5880062,
+    "longitude": -116.4288508,
+    "country": "Canada",
+    "state": "AB",
+    "name": "St. Andrew Church the First-called",
+    "city": "Edson, AB"
+  },
+  {
+    "uid": "192",
+    "latitude": 49.7128648,
+    "longitude": -112.8333922,
+    "country": "Canada",
+    "state": "AB",
+    "name": "Holy Dormition of Our Lady Church",
+    "city": "Lethbridge, AB"
+  },
+  {
+    "uid": "372",
+    "latitude": 53.611641,
+    "longitude": -115.350502,
+    "country": "Canada",
+    "state": "AB",
+    "name": "Dormition Skete",
+    "city": "Northville, AB"
+  },
+  {
+    "uid": "123",
+    "latitude": 52.2690328,
+    "longitude": -113.8114955,
+    "country": "Canada",
+    "state": "AB",
+    "name": "Community of St. George the Great Martyr",
+    "city": "Red Deer, AB"
+  },
+  {
+    "uid": "77",
+    "latitude": 49.258791,
+    "longitude": -123.0869638,
+    "country": "Canada",
+    "state": "BC",
+    "name": "St. Nicholas Orthodox Church",
+    "city": "Vancouver, BC"
+  },
+  {
+    "uid": "76",
+    "latitude": 49.28,
+    "longitude": -123.08,
+    "country": "Canada",
+    "state": "BC",
+    "name": "Holy Trinity Orthodox Church",
+    "city": "Vancouver, BC"
+  },
+  {
+    "uid": "333",
+    "latitude": 48.4109482,
+    "longitude": -123.3470738,
+    "country": "Canada",
+    "state": "BC",
+    "name": "St. Sophia Orthodox Church",
+    "city": "Victoria, BC"
+  },
+  {
+    "uid": "63",
+    "latitude": 49.92,
+    "longitude": -97.15,
+    "country": "Canada",
+    "state": "MB",
+    "name": "Holy Resurrection Church",
+    "city": "Winnipeg, MB"
+  },
+  {
+    "uid": "664",
+    "latitude": 51.253775,
+    "longitude": -85.3232139,
+    "country": "Canada",
+    "state": "ON",
+    "name": "Chapel of the Holy Apostles",
+    "city": ", ON"
+  },
+  {
+    "uid": "663",
+    "latitude": 45.0915419,
+    "longitude": -79.152392,
+    "country": "Canada",
+    "state": "ON",
+    "name": "St. Alexis Chapel",
+    "city": "Bracebridge, ON"
+  },
+  {
+    "uid": "122",
+    "latitude": 43.358711,
+    "longitude": -80.299776,
+    "country": "Canada",
+    "state": "ON",
+    "name": "Parish of St. Tikhon of Moscow",
+    "city": "Cambridge, ON"
+  },
+  {
+    "uid": "552",
+    "latitude": 43.1524812,
+    "longitude": -79.6016516,
+    "country": "Canada",
+    "state": "ON",
+    "name": "Community of the Pochaev Icon Mother of God",
+    "city": "Grassie, ON"
+  },
+  {
+    "uid": "196",
+    "latitude": 43.2492401,
+    "longitude": -79.8472619,
+    "country": "Canada",
+    "state": "ON",
+    "name": "Veil of Holy Mother Church",
+    "city": "Hamilton, ON"
+  },
+  {
+    "uid": "443",
+    "latitude": 43.2563888,
+    "longitude": -79.8501293,
+    "country": "Canada",
+    "state": "ON",
+    "name": "St. Benet House, Western-Rite Stavropegial Convent",
+    "city": "Hamilton, ON"
+  },
+  {
+    "uid": "197",
+    "latitude": 44.3148378,
+    "longitude": -79.3796629,
+    "country": "Canada",
+    "state": "ON",
+    "name": "Our Lady of Smolensk Church",
+    "city": "Jacksons Point, ON"
+  },
+  {
+    "uid": "644",
+    "latitude": 45.3219653,
+    "longitude": -75.8903338,
+    "country": "Canada",
+    "state": "ON",
+    "name": "Blessed St. Xenia of Petersburg Church",
+    "city": "Kanata, ON"
+  },
+  {
+    "uid": "198",
+    "latitude": 42.965882,
+    "longitude": -81.226926,
+    "country": "Canada",
+    "state": "ON",
+    "name": "Christ the Savior Church",
+    "city": "London, ON"
+  },
+  {
+    "uid": "199",
+    "latitude": 43.103182,
+    "longitude": -79.074477,
+    "country": "Canada",
+    "state": "ON",
+    "name": "St. John of Rila Bulgarian Orthodox Church",
+    "city": "Niagara Falls, ON"
+  },
+  {
+    "uid": "200",
+    "latitude": 45.4070549,
+    "longitude": -75.7279627,
+    "country": "Canada",
+    "state": "ON",
+    "name": "Protection of the Holy Virgin Memorial Church",
+    "city": "Ottawa, ON"
+  },
+  {
+    "uid": "665",
+    "latitude": 45.4075458,
+    "longitude": -75.7276293,
+    "country": "Canada",
+    "state": "ON",
+    "name": "St. Vladimirâ€™s Russian Senior Residenc",
+    "city": "Ottawa, ON"
+  },
+  {
+    "uid": "201",
+    "latitude": 43.680736,
+    "longitude": -79.432706,
+    "country": "Canada",
+    "state": "ON",
+    "name": "Holy Resurrection Church",
+    "city": "Toronto, ON"
+  },
+  {
+    "uid": "202",
+    "latitude": 43.657155,
+    "longitude": -79.39394,
+    "country": "Canada",
+    "state": "ON",
+    "name": "Holy Trinity Cathedral",
+    "city": "Toronto, ON"
+  },
+  {
+    "uid": "444",
+    "latitude": 42.9332313,
+    "longitude": -80.254435,
+    "country": "Canada",
+    "state": "ON",
+    "name": "St. John the Wonderworker Western-Rite Stavropegial Orthodox Church",
+    "city": "Waterford, ON"
+  },
+  {
+    "uid": "203",
+    "latitude": 42.3137694,
+    "longitude": -82.9949481,
+    "country": "Canada",
+    "state": "ON",
+    "name": "Holy Trinity Orthodox Church",
+    "city": "Windsor, ON"
+  },
+  {
+    "uid": "96",
+    "latitude": 45.4408443,
+    "longitude": -73.6691676,
+    "country": "Canada",
+    "state": "QC",
+    "name": "St. John the Martyr Church",
+    "city": "Lachine, QC"
+  },
+  {
+    "uid": "204",
+    "latitude": 45.0111226,
+    "longitude": -72.3959761,
+    "country": "Canada",
+    "state": "QC",
+    "name": "Russian Orthodox Monastery",
+    "city": "Mansonville, QC"
+  },
+  {
+    "uid": "121",
+    "latitude": 45.529888,
+    "longitude": -73.634902,
+    "country": "Canada",
+    "state": "QC",
+    "name": "St. Seraphim House Church",
+    "city": "Montreal, QC"
+  },
+  {
+    "uid": "410",
+    "latitude": 45.506018,
+    "longitude": -73.569109,
+    "country": "Canada",
+    "state": "QC",
+    "name": "Diocesan Administration, Montreal",
+    "city": "Montreal, QC"
+  },
+  {
+    "uid": "62",
+    "latitude": 45.5264657,
+    "longitude": -73.5873124,
+    "country": "Canada",
+    "state": "QC",
+    "name": "St. Nicholas Cathedral",
+    "city": "Montreal, QC"
+  },
+  {
+    "uid": "206",
+    "latitude": 46.029717,
+    "longitude": -73.712232,
+    "country": "Canada",
+    "state": "QC",
+    "name": "Eglise Notre Dame de Kazan",
+    "city": "Rawdon, QC"
+  },
+  {
+    "uid": "299",
+    "latitude": -35.325509,
+    "longitude": 149.151279,
+    "country": "Australia",
+    "state": "ACT",
+    "name": "St. John the Forerunner Church",
+    "city": "Canberra, ACT"
+  },
+  {
+    "uid": "327",
+    "latitude": -34.4199384566068,
+    "longitude": 151.026134490967,
+    "country": "Australia",
+    "state": "NSW",
+    "name": "Orthodox Monastery of the Archangel Michael",
+    "city": ", NSW"
+  },
+  {
+    "uid": "319",
+    "latitude": -36.713895,
+    "longitude": 149.054003,
+    "country": "Australia",
+    "state": "NSW",
+    "name": "Holy Transfiguration Orthodox Monastery",
+    "city": "Bombala, NSW"
+  },
+  {
+    "uid": "207",
+    "latitude": -36.7219962546523,
+    "longitude": 148.959374427795,
+    "country": "Australia",
+    "state": "NSW",
+    "name": "Presentation of the Mother of God Convent",
+    "city": "Bungarby, NSW"
+  },
+  {
+    "uid": "298",
+    "latitude": -33.894859,
+    "longitude": 150.930623,
+    "country": "Australia",
+    "state": "NSW",
+    "name": "Protection of the Holy Virgin Church",
+    "city": "Cabramatta, NSW"
+  },
+  {
+    "uid": "300",
+    "latitude": -33.970191,
+    "longitude": 151.122853,
+    "country": "Australia",
+    "state": "NSW",
+    "name": "St. George Church",
+    "city": "Carlton, NSW"
+  },
+  {
+    "uid": "311",
+    "latitude": -33.89959,
+    "longitude": 151.224716,
+    "country": "Australia",
+    "state": "NSW",
+    "name": "St. Vladimir Church",
+    "city": "Centennial Park, NSW"
+  },
+  {
+    "uid": "380",
+    "latitude": -33.885669,
+    "longitude": 151.110998,
+    "country": "Australia",
+    "state": "NSW",
+    "name": "Diocesan Administration, Diocese of Australia and New Zealand",
+    "city": "Croydon, NSW"
+  },
+  {
+    "uid": "310",
+    "latitude": -33.885507,
+    "longitude": 151.111148,
+    "country": "Australia",
+    "state": "NSW",
+    "name": "Church of All Russian Saints",
+    "city": "Croydon, NSW"
+  },
+  {
+    "uid": "173",
+    "latitude": -32.3287723351386,
+    "longitude": 151.810283660889,
+    "country": "Australia",
+    "state": "NSW",
+    "name": "Holy Trinity Monastery",
+    "city": "Dungog, NSW"
+  },
+  {
+    "uid": "302",
+    "latitude": -33.870684,
+    "longitude": 150.953335,
+    "country": "Australia",
+    "state": "NSW",
+    "name": "St. Nicholas Church",
+    "city": "Fairfield, NSW"
+  },
+  {
+    "uid": "271",
+    "latitude": -34.074225,
+    "longitude": 150.864402,
+    "country": "Australia",
+    "state": "NSW",
+    "name": "St. John the Baptist Skete",
+    "city": "Kentlyn, NSW"
+  },
+  {
+    "uid": "306",
+    "latitude": -34.073183,
+    "longitude": 150.861836,
+    "country": "Australia",
+    "state": "NSW",
+    "name": "Our Lady of Kazan Convent",
+    "city": "Kentlyn, NSW"
+  },
+  {
+    "uid": "532",
+    "latitude": -33.7677563,
+    "longitude": 150.781631,
+    "country": "Australia",
+    "state": "NSW",
+    "name": "Holy Dormition Sisterhood",
+    "city": "St Marys, NSW"
+  },
+  {
+    "uid": "84",
+    "latitude": -33.8751100191801,
+    "longitude": 151.089037656784,
+    "country": "Australia",
+    "state": "NSW",
+    "name": "Sts. Peter and Paul Orthodox Cathedral",
+    "city": "Strathfield, NSW"
+  },
+  {
+    "uid": "304",
+    "latitude": -28.1973003,
+    "longitude": 153.5443549,
+    "country": "Australia",
+    "state": "NSW",
+    "name": "Sts. Cyril and Methodius Community",
+    "city": "Tweed Heads South, NSW"
+  },
+  {
+    "uid": "174",
+    "latitude": -32.902674,
+    "longitude": 151.671657,
+    "country": "Australia",
+    "state": "NSW",
+    "name": "St. Nicholas Church",
+    "city": "Wallsend, NSW"
+  },
+  {
+    "uid": "205",
+    "latitude": -33.413013,
+    "longitude": 151.323509,
+    "country": "Australia",
+    "state": "NSW",
+    "name": "St. Panteleimon Church",
+    "city": "West Gosford, NSW"
+  },
+  {
+    "uid": "168",
+    "latitude": -34.3679485,
+    "longitude": 150.8957479,
+    "country": "Australia",
+    "state": "NSW",
+    "name": "Holy Dormition Community",
+    "city": "Wollongong, NSW"
+  },
+  {
+    "uid": "536",
+    "latitude": -27.559167,
+    "longitude": 151.976794,
+    "country": "Australia",
+    "state": "QLD",
+    "name": "St John the Baptist Orthodox Mission",
+    "city": "East Toowoomba, QLD"
+  },
+  {
+    "uid": "296",
+    "latitude": -27.4837379,
+    "longitude": 153.0345306,
+    "country": "Australia",
+    "state": "QLD",
+    "name": "St. Nicholas Cathedral",
+    "city": "Kangaroo Point, QLD"
+  },
+  {
+    "uid": "165",
+    "latitude": -27.5565471,
+    "longitude": 153.014155,
+    "country": "Australia",
+    "state": "QLD",
+    "name": "Blessed Virgin of Vladimir Russian Orthodox Church Abroad",
+    "city": "Rocklea, QLD"
+  },
+  {
+    "uid": "394",
+    "latitude": -27.492805,
+    "longitude": 153.032639,
+    "country": "Australia",
+    "state": "QLD",
+    "name": "Orthodox Church of the Holy Annunciation",
+    "city": "Woolloongabba, QLD"
+  },
+  {
+    "uid": "297",
+    "latitude": -27.488235,
+    "longitude": 153.031708,
+    "country": "Australia",
+    "state": "QLD",
+    "name": "St. Seraphim Church",
+    "city": "Woolloongabba, QLD"
+  },
+  {
+    "uid": "516",
+    "latitude": -35.0844255,
+    "longitude": 138.5603804,
+    "country": "Australia",
+    "state": "SA",
+    "name": "St. Elizabeth and St. Barbara Church",
+    "city": "Happy Valley, SA"
+  },
+  {
+    "uid": "448",
+    "latitude": -34.8633494,
+    "longitude": 138.5853309,
+    "country": "Australia",
+    "state": "SA",
+    "name": "St. Patrick Mission",
+    "city": "Kilburn, SA"
+  },
+  {
+    "uid": "172",
+    "latitude": -35.092266,
+    "longitude": 139.097081,
+    "country": "Australia",
+    "state": "SA",
+    "name": "Monastery of the Prophet Elias",
+    "city": "Monarto , SA"
+  },
+  {
+    "uid": "294",
+    "latitude": -34.941847,
+    "longitude": 138.590497,
+    "country": "Australia",
+    "state": "SA",
+    "name": "St. Nicholas Church",
+    "city": "Wayville, SA"
+  },
+  {
+    "uid": "305",
+    "latitude": -42.867332,
+    "longitude": 147.31005,
+    "country": "Australia",
+    "state": "TAS",
+    "name": "Exaltation of the Holy Cross Church",
+    "city": "Lenah Valley, TAS"
+  },
+  {
+    "uid": "627",
+    "latitude": -42.9970013,
+    "longitude": 146.8201177,
+    "country": "Australia",
+    "state": "TAS",
+    "name": "Holy Trinity Church",
+    "city": "Lonnavale, TAS"
+  },
+  {
+    "uid": "167",
+    "latitude": -38.371254,
+    "longitude": 142.494131,
+    "country": "Australia",
+    "state": "VIC",
+    "name": "Holy Fathers Community",
+    "city": "Allansford, VIC"
+  },
+  {
+    "uid": "303",
+    "latitude": -38.112674,
+    "longitude": 144.335028,
+    "country": "Australia",
+    "state": "VIC",
+    "name": "Church of Icon of the Joy of All Who Sorrow",
+    "city": "Bell Park, VIC"
+  },
+  {
+    "uid": "420",
+    "latitude": -37.9965895,
+    "longitude": 145.2036535,
+    "country": "Australia",
+    "state": "VIC",
+    "name": "Saint John of Kronstadt Chapel",
+    "city": "Dandenong, VIC"
+  },
+  {
+    "uid": "301",
+    "latitude": -37.994490708042,
+    "longitude": 145.204570144415,
+    "country": "Australia",
+    "state": "VIC",
+    "name": "Church of Our Lady&#39;s Dormition",
+    "city": "Dandenong, VIC"
+  },
+  {
+    "uid": "307",
+    "latitude": -37.762787,
+    "longitude": 144.980948,
+    "country": "Australia",
+    "state": "VIC",
+    "name": "Holy Virgin Protection Cathedral",
+    "city": "East Brunswick, VIC"
+  },
+  {
+    "uid": "396",
+    "latitude": -37.862009,
+    "longitude": 144.899071,
+    "country": "Australia",
+    "state": "VIC",
+    "name": "Holy Ascension Orthodox Mission",
+    "city": "Williamstown, VIC"
+  },
+  {
+    "uid": "107",
+    "latitude": -31.921876,
+    "longitude": 115.903118,
+    "country": "Australia",
+    "state": "WA",
+    "name": "Sts. Peter and Paul Church",
+    "city": "Bayswater, WA"
+  },
+  {
+    "uid": "527",
+    "latitude": 46.8292723,
+    "longitude": 12.7693598,
+    "country": "Austria",
+    "state": null,
+    "name": "Church of St. Apostle Andrew the First-Called",
+    "city": "Lienz"
+  },
+  {
+    "uid": "342",
+    "latitude": 47.809859,
+    "longitude": 13.034702,
+    "country": "Austria",
+    "state": null,
+    "name": "Orthodoxe Kirche Maria Schutz",
+    "city": "Salzburg"
+  },
+  {
+    "uid": "211",
+    "latitude": 46.618438,
+    "longitude": 13.820531,
+    "country": "Austria",
+    "state": null,
+    "name": "St. Alexander Nevsky Orthodox Church",
+    "city": "Villach"
+  },
+  {
+    "uid": "212",
+    "latitude": 50.804333,
+    "longitude": 4.3564617,
+    "country": "Belgium",
+    "state": null,
+    "name": "Brussels: Eglise de Saint Job Ã  la mÃ©moire du Saint Tsar Martyr Nicolas II, la Famille ImpÃ©riale et de toutes les victimes des troubles.",
+    "city": "Bruxelles"
+  },
+  {
+    "uid": "213",
+    "latitude": 50.836609,
+    "longitude": 4.357847,
+    "country": "Belgium",
+    "state": null,
+    "name": "Eglise de la Resurrection du Christ",
+    "city": "Bruxelles"
+  },
+  {
+    "uid": "160",
+    "latitude": -36.9041815,
+    "longitude": -73.0255742,
+    "country": "Chile",
+    "state": null,
+    "name": "Mission of St. Silouan of Mt. Athos",
+    "city": "Concepcion"
+  },
+  {
+    "uid": "284",
+    "latitude": -33.4511262,
+    "longitude": -70.5959281,
+    "country": "Chile",
+    "state": null,
+    "name": "Church of the Holy Trinity and Icon of Virgin of Kazan",
+    "city": "Santiago"
+  },
+  {
+    "uid": "161",
+    "latitude": -39.8195857,
+    "longitude": -73.2452103,
+    "country": "Chile",
+    "state": null,
+    "name": "Parroquia de SÐ°n NectÐ°riÐ¾ de Pentapolis",
+    "city": "Valdivia"
+  },
+  {
+    "uid": "328",
+    "latitude": 9.98811693637403,
+    "longitude": -84.0161193427399,
+    "country": "Costa Rica",
+    "state": null,
+    "name": "Church of the Mother of God of Vladimir",
+    "city": "San JosÃ©"
+  },
+  {
+    "uid": "564",
+    "latitude": 56.1287564,
+    "longitude": 10.1650243,
+    "country": "Denmark",
+    "state": null,
+    "name": "Den Hellige Bispemartyr Klements Menighed",
+    "city": "Aarhus"
+  },
+  {
+    "uid": "214",
+    "latitude": 55.6852397,
+    "longitude": 12.590972,
+    "country": "Denmark",
+    "state": null,
+    "name": "Kirche d. Hl. Alexander Nevskij",
+    "city": "KÃ˜BENHAVN K"
+  },
+  {
+    "uid": "450",
+    "latitude": 18.6704741784061,
+    "longitude": -68.4413970616547,
+    "country": "Dominican Republic",
+    "state": null,
+    "name": "Saint Seraphim of Sarov Russian Orthodox Church Outside Russia",
+    "city": "Punta Cana"
+  },
+  {
+    "uid": "383",
+    "latitude": 19.744539,
+    "longitude": -70.516006,
+    "country": "Dominican Republic",
+    "state": null,
+    "name": "Mision Ortodoxa Rusa Icon Nuestra Sra. Madre de Dios de Kazan",
+    "city": "Sosua, Puerto Plata"
+  },
+  {
+    "uid": "632",
+    "latitude": 45.8999327,
+    "longitude": 6.1259041,
+    "country": "France",
+    "state": null,
+    "name": "CommunautÃ© de Tous les Saints",
+    "city": "Annecy"
+  },
+  {
+    "uid": "642",
+    "latitude": 43.546338,
+    "longitude": 7.039037,
+    "country": "France",
+    "state": null,
+    "name": "Eglise Saint Archange Michel",
+    "city": "Cannes"
+  },
+  {
+    "uid": "141",
+    "latitude": 43.5509864,
+    "longitude": 7.0085607,
+    "country": "France",
+    "state": null,
+    "name": "Ã‰glise Saint Archange Michel et la crypte dÃ©diÃ©e Ã  Sainte Catherine et Saint Alexandre Nevsky",
+    "city": "Cannes"
+  },
+  {
+    "uid": "93",
+    "latitude": 49.326197,
+    "longitude": 1.592895,
+    "country": "France",
+    "state": null,
+    "name": "Couvent de la Sainte Vierge de Lesna",
+    "city": "Etrepagny"
+  },
+  {
+    "uid": "219",
+    "latitude": 46.249591,
+    "longitude": 3.638865,
+    "country": "France",
+    "state": null,
+    "name": "Eglise des Saints Apotres Pierre et Paul",
+    "city": "Lapalisse"
+  },
+  {
+    "uid": "215",
+    "latitude": 45.7666179,
+    "longitude": 4.8637059,
+    "country": "France",
+    "state": null,
+    "name": "Eglise Saint Jean le Russe",
+    "city": "Lyon"
+  },
+  {
+    "uid": "145",
+    "latitude": 45.767448,
+    "longitude": 4.864797,
+    "country": "France",
+    "state": null,
+    "name": "Eglise Saint Nicolas",
+    "city": "Lyon"
+  },
+  {
+    "uid": "146",
+    "latitude": 43.302004,
+    "longitude": 5.388762,
+    "country": "France",
+    "state": null,
+    "name": "Eglise Saint Georges",
+    "city": "Marseille"
+  },
+  {
+    "uid": "216",
+    "latitude": 43.766747,
+    "longitude": 7.4850841,
+    "country": "France",
+    "state": null,
+    "name": "Eglise de l&#39;icone de la Mere de Dieu &quot;Joie de tous les Affligees&quot;",
+    "city": "Menton"
+  },
+  {
+    "uid": "85",
+    "latitude": 48.81,
+    "longitude": 2.24,
+    "country": "France",
+    "state": null,
+    "name": "Eglise de la RÃ©surrection du Christ",
+    "city": "Meudon"
+  },
+  {
+    "uid": "618",
+    "latitude": 43.7432409,
+    "longitude": 7.4289777,
+    "country": "France",
+    "state": null,
+    "name": "St. Elenaâ€™s Russian Orthodox Parish of Monaco",
+    "city": "Monte-Carlo"
+  },
+  {
+    "uid": "681",
+    "latitude": 43.7432409,
+    "longitude": 7.4289777,
+    "country": "France",
+    "state": null,
+    "name": "Paroisse de la Sainte ImpÃ©ratrice Elena",
+    "city": "Monte-carlo"
+  },
+  {
+    "uid": "148",
+    "latitude": 49.341911,
+    "longitude": 6.052381,
+    "country": "France",
+    "state": null,
+    "name": "Eglise de la Sainte-Trinite - Saint Nicolas",
+    "city": "Nilvange"
+  },
+  {
+    "uid": "150",
+    "latitude": 48.841063,
+    "longitude": 2.261582,
+    "country": "France",
+    "state": null,
+    "name": "Eglise de Tous les Saints glorifies en Terre Russe",
+    "city": "Paris"
+  },
+  {
+    "uid": "149",
+    "latitude": 48.825966,
+    "longitude": 2.347504,
+    "country": "France",
+    "state": null,
+    "name": "Chapelle Saint Jean Maximovitch",
+    "city": "Paris"
+  },
+  {
+    "uid": "218",
+    "latitude": 43.301453,
+    "longitude": -0.366697,
+    "country": "France",
+    "state": null,
+    "name": "Eglise Saint Alexandre Nevsky",
+    "city": "Pau"
+  },
+  {
+    "uid": "633",
+    "latitude": 45.9894681,
+    "longitude": 4.2163291,
+    "country": "France",
+    "state": null,
+    "name": "Eglise des SS apÃ´tres Pierre et Paul",
+    "city": "Regny"
+  },
+  {
+    "uid": "631",
+    "latitude": 49.4307608,
+    "longitude": 1.1035897,
+    "country": "France",
+    "state": null,
+    "name": "CommunautÃ© de Saint Jean, ArchevÃªque de Changhai et de San-Francisco",
+    "city": "Rouen"
+  },
+  {
+    "uid": "151",
+    "latitude": 48.531567,
+    "longitude": 7.711646,
+    "country": "France",
+    "state": null,
+    "name": "Eglise du Christ-Sauveur",
+    "city": "Strasbourg"
+  },
+  {
+    "uid": "220",
+    "latitude": 49.429612,
+    "longitude": 11.884755,
+    "country": "Germany",
+    "state": null,
+    "name": "Kirche d. Hll. Apostel Peter und Paul",
+    "city": "Amberg"
+  },
+  {
+    "uid": "221",
+    "latitude": 48.3632958,
+    "longitude": 10.8642401,
+    "country": "Germany",
+    "state": null,
+    "name": "Kirche d. Ikone d. Allerheiligsten Gottesmutter &quot;Freude aller Trauernden&quot;",
+    "city": "Augsburg"
+  },
+  {
+    "uid": "222",
+    "latitude": 50.330232,
+    "longitude": 7.723164,
+    "country": "Germany",
+    "state": null,
+    "name": "Hl. Alexandra-Kirche",
+    "city": "Bad Ems"
+  },
+  {
+    "uid": "223",
+    "latitude": 50.229005,
+    "longitude": 8.627396,
+    "country": "Germany",
+    "state": null,
+    "name": "Allerheiligen-Kirche",
+    "city": "Bad Homburg"
+  },
+  {
+    "uid": "224",
+    "latitude": 50.205879,
+    "longitude": 10.074158,
+    "country": "Germany",
+    "state": null,
+    "name": "Kirche d. Hl. Sergius von Radonez",
+    "city": "Bad Kissengen"
+  },
+  {
+    "uid": "225",
+    "latitude": 50.364696,
+    "longitude": 8.736934,
+    "country": "Germany",
+    "state": null,
+    "name": "Kirche d. Hl. Innokentios u. d. Hl. Seraphim v. Sarov",
+    "city": "Bad Nauheim"
+  },
+  {
+    "uid": "338",
+    "latitude": 48.7549536,
+    "longitude": 8.2439309,
+    "country": "Germany",
+    "state": null,
+    "name": "Christi-Verklarungskirche",
+    "city": "Baden-Baden"
+  },
+  {
+    "uid": "226",
+    "latitude": 52.5198818,
+    "longitude": 13.3071942,
+    "country": "Germany",
+    "state": null,
+    "name": "Maria-Schutz-Kirche",
+    "city": "Berlin"
+  },
+  {
+    "uid": "228",
+    "latitude": 51.4619212,
+    "longitude": 7.205705,
+    "country": "Germany",
+    "state": null,
+    "name": "Hl. Geors-Kirche",
+    "city": "Bochum"
+  },
+  {
+    "uid": "100",
+    "latitude": 48.05651,
+    "longitude": 11.4027651,
+    "country": "Germany",
+    "state": null,
+    "name": "Skid der H. Elisabeth",
+    "city": "Buchendorf"
+  },
+  {
+    "uid": "130",
+    "latitude": 52.8513448,
+    "longitude": 8.0806664,
+    "country": "Germany",
+    "state": null,
+    "name": "Kirche d. Hl. Seraphim v. Sarov",
+    "city": "Cloppenburg"
+  },
+  {
+    "uid": "227",
+    "latitude": 49.8766962,
+    "longitude": 8.6668723,
+    "country": "Germany",
+    "state": null,
+    "name": "Kirche d. Hl. Maria Magdalena",
+    "city": "Darmstadt"
+  },
+  {
+    "uid": "139",
+    "latitude": 47.854853,
+    "longitude": 8.7760105,
+    "country": "Germany",
+    "state": null,
+    "name": "Kirche d. Ikone d. Allerheiligsten Gottesmutter &quot;Freude aller Trauernden&quot;",
+    "city": "Engen"
+  },
+  {
+    "uid": "230",
+    "latitude": 49.5815385,
+    "longitude": 11.0075039,
+    "country": "Germany",
+    "state": null,
+    "name": "Dreifaltigheitskirche",
+    "city": "Erlangen"
+  },
+  {
+    "uid": "507",
+    "latitude": 48.064122,
+    "longitude": 10.6420721,
+    "country": "Germany",
+    "state": null,
+    "name": "Gemeinde der Hl. Sofia",
+    "city": "Ettringen"
+  },
+  {
+    "uid": "231",
+    "latitude": 50.1298405,
+    "longitude": 8.6230239,
+    "country": "Germany",
+    "state": null,
+    "name": "Hl. Nikolaus-Kirche",
+    "city": "Frankfurt-Hausen"
+  },
+  {
+    "uid": "233",
+    "latitude": 53.583756,
+    "longitude": 9.946938,
+    "country": "Germany",
+    "state": null,
+    "name": "Hl. Prokipios-Kirche",
+    "city": "Hamburg"
+  },
+  {
+    "uid": "669",
+    "latitude": 53.5842415,
+    "longitude": 9.9469501,
+    "country": "Germany",
+    "state": null,
+    "name": "Kirche D. Hl. Prokopij",
+    "city": "Hamburg"
+  },
+  {
+    "uid": "499",
+    "latitude": 52.376781,
+    "longitude": 9.7217667,
+    "country": "Germany",
+    "state": null,
+    "name": "Korennaya-Kirche Hannover",
+    "city": "Hannover"
+  },
+  {
+    "uid": "234",
+    "latitude": 52.403766,
+    "longitude": 9.7396387,
+    "country": "Germany",
+    "state": null,
+    "name": "Christi-Geburt-Gemeinde",
+    "city": "Hannover"
+  },
+  {
+    "uid": "670",
+    "latitude": 52.3863062,
+    "longitude": 9.7156831,
+    "country": "Germany",
+    "state": null,
+    "name": "Kirche d. Ikone Allerheiligsten Gottesmutter",
+    "city": "Hannover"
+  },
+  {
+    "uid": "498",
+    "latitude": 52.148363,
+    "longitude": 9.9263318,
+    "country": "Germany",
+    "state": null,
+    "name": "Russisch-Orthodoxe Gemeinde",
+    "city": "Hildesheim"
+  },
+  {
+    "uid": "128",
+    "latitude": 48.76881,
+    "longitude": 11.42411,
+    "country": "Germany",
+    "state": null,
+    "name": "St. Nicholas Church",
+    "city": "Ingolstadt"
+  },
+  {
+    "uid": "674",
+    "latitude": 47.8601395,
+    "longitude": 12.1283584,
+    "country": "Germany",
+    "state": null,
+    "name": "Russisch-Orthodoxe Gemeinde",
+    "city": "Kaiserstr"
+  },
+  {
+    "uid": "235",
+    "latitude": 51.31429,
+    "longitude": 9.501579,
+    "country": "Germany",
+    "state": null,
+    "name": "Gemeinde d. Hl. Panteleimon",
+    "city": "Kassel"
+  },
+  {
+    "uid": "236",
+    "latitude": 50.90643,
+    "longitude": 7.01830999999993,
+    "country": "Germany",
+    "state": null,
+    "name": "Gemeinde d. Hl. Grossmaetyrers Panteleimon",
+    "city": "Koeln-Westhoven"
+  },
+  {
+    "uid": "671",
+    "latitude": 50.9062489,
+    "longitude": 7.0176513,
+    "country": "Germany",
+    "state": null,
+    "name": "Gemeinde d. Hl. Panteleimon",
+    "city": "Koln"
+  },
+  {
+    "uid": "508",
+    "latitude": 49.6953096,
+    "longitude": 6.5753425,
+    "country": "Germany",
+    "state": null,
+    "name": "Gemeinde d. Hl. Konstantin und Helena",
+    "city": "Konz"
+  },
+  {
+    "uid": "238",
+    "latitude": 48.5370857,
+    "longitude": 12.1558175,
+    "country": "Germany",
+    "state": null,
+    "name": "Hl. Nikolaus-Gemeinde",
+    "city": "Landshut"
+  },
+  {
+    "uid": "239",
+    "latitude": 53.8691855,
+    "longitude": 10.6900143,
+    "country": "Germany",
+    "state": null,
+    "name": "Kirche d. Hl. Prokopij v. Ustijug",
+    "city": "LÃ¼beck"
+  },
+  {
+    "uid": "240",
+    "latitude": 49.4994781,
+    "longitude": 8.4634032,
+    "country": "Germany",
+    "state": null,
+    "name": "Kirche d. Hl. Alexander Nevskij",
+    "city": "Mannheim"
+  },
+  {
+    "uid": "133",
+    "latitude": 52.2880043,
+    "longitude": 8.9462078,
+    "country": "Germany",
+    "state": null,
+    "name": "Gemeinde d. Hl. Vladimir",
+    "city": "Minden"
+  },
+  {
+    "uid": "409",
+    "latitude": 48.162107,
+    "longitude": 11.458547,
+    "country": "Germany",
+    "state": null,
+    "name": "DiozÃ¶senverwaltung (Diocesan Administration), Diocese of Germany",
+    "city": "Muenchen"
+  },
+  {
+    "uid": "242",
+    "latitude": 48.2172295,
+    "longitude": 11.4893765,
+    "country": "Germany",
+    "state": null,
+    "name": "Kirche d. Hl. Erzengels Michael",
+    "city": "Muenchen"
+  },
+  {
+    "uid": "241",
+    "latitude": 48.0958172,
+    "longitude": 11.5954936,
+    "country": "Germany",
+    "state": null,
+    "name": "Kathedrale der Hll. Neumaertyrer und Bekenner Russlands und des Hl. Nikolaus",
+    "city": "Muenchen"
+  },
+  {
+    "uid": "243",
+    "latitude": 48.1622251,
+    "longitude": 11.4594947,
+    "country": "Germany",
+    "state": null,
+    "name": "Kloster des Hl. Hiob von Pocaev",
+    "city": "MÃ¼nchen"
+  },
+  {
+    "uid": "672",
+    "latitude": 48.2163387,
+    "longitude": 11.4889576,
+    "country": "Germany",
+    "state": null,
+    "name": "Apostel Thomas Gemeinde in MÃ¼nchen",
+    "city": "MÃ¼nchen"
+  },
+  {
+    "uid": "317",
+    "latitude": 51.9278613,
+    "longitude": 7.6289946,
+    "country": "Germany",
+    "state": null,
+    "name": "Gemeinde d. Ikone d. Allerheiligsten Gottesmutter v. Kazan",
+    "city": "MÃ¼nster"
+  },
+  {
+    "uid": "229",
+    "latitude": 51.1910608,
+    "longitude": 6.6726219,
+    "country": "Germany",
+    "state": null,
+    "name": "Hl. Nikolaus-Kirche",
+    "city": "Neuss"
+  },
+  {
+    "uid": "131",
+    "latitude": 49.447878,
+    "longitude": 11.0735845,
+    "country": "Germany",
+    "state": null,
+    "name": "Gemeinde d. Geburt d. Allerheiligsten Gottesmutter",
+    "city": "NÃ¼rnberg"
+  },
+  {
+    "uid": "276",
+    "latitude": 53.14549,
+    "longitude": 8.18983,
+    "country": "Germany",
+    "state": null,
+    "name": "Russische orthodoxe Gemeinde des Schutzes der Allerheiligsten Gottesmutter",
+    "city": "Oldenburg"
+  },
+  {
+    "uid": "673",
+    "latitude": 53.1454082,
+    "longitude": 8.1897503,
+    "country": "Germany",
+    "state": null,
+    "name": "St.Peter-Kirche",
+    "city": "Oldenburg"
+  },
+  {
+    "uid": "244",
+    "latitude": 49.0231142,
+    "longitude": 12.0625789,
+    "country": "Germany",
+    "state": null,
+    "name": "Maria-Schutz-Kirche",
+    "city": "Regensburg"
+  },
+  {
+    "uid": "245",
+    "latitude": 49.2494383,
+    "longitude": 6.94060030000003,
+    "country": "Germany",
+    "state": null,
+    "name": "Kirche d. Hl. Maertyrerin Eugenia",
+    "city": "Saarbrucken"
+  },
+  {
+    "uid": "337",
+    "latitude": 52.1539849,
+    "longitude": 10.3255181,
+    "country": "Germany",
+    "state": null,
+    "name": "Hl. Nikolaus-Kirche",
+    "city": "Salzgitter-Lebensstedt"
+  },
+  {
+    "uid": "246",
+    "latitude": 51.9253764,
+    "longitude": 8.5984468,
+    "country": "Germany",
+    "state": null,
+    "name": "Christi-Verklarungskirche",
+    "city": "Sennestadt"
+  },
+  {
+    "uid": "135",
+    "latitude": 48.88051,
+    "longitude": 12.56326,
+    "country": "Germany",
+    "state": null,
+    "name": "Kirche hl. Johannes d. Taeufers",
+    "city": "Straubing"
+  },
+  {
+    "uid": "248",
+    "latitude": 48.783277,
+    "longitude": 9.271577,
+    "country": "Germany",
+    "state": null,
+    "name": "Hl. Nikolaus-Grabkapelle",
+    "city": "Stuttgart"
+  },
+  {
+    "uid": "247",
+    "latitude": 48.7840386,
+    "longitude": 9.1634524,
+    "country": "Germany",
+    "state": null,
+    "name": "Hl. Nikolaus-Kirche",
+    "city": "Stuttgart"
+  },
+  {
+    "uid": "249",
+    "latitude": 50.097853,
+    "longitude": 8.236075,
+    "country": "Germany",
+    "state": null,
+    "name": "Kirche d. Hl. Elisabeth",
+    "city": "Wiesbaden"
+  },
+  {
+    "uid": "668",
+    "latitude": 49.977747,
+    "longitude": 6.9268413,
+    "country": "Germany",
+    "state": null,
+    "name": "Gemeinde zu Ehren d. Hl. Apostel Johannes d. Theologen",
+    "city": "Wittlich"
+  },
+  {
+    "uid": "388",
+    "latitude": 19.7602036,
+    "longitude": -72.2020479,
+    "country": "Haiti",
+    "state": null,
+    "name": "Ð Ð°rÐ¾Ñ–sse Saint Nicolas",
+    "city": "Cap-Haitian"
+  },
+  {
+    "uid": "387",
+    "latitude": 18.1931518,
+    "longitude": -73.7454201,
+    "country": "Haiti",
+    "state": null,
+    "name": "Paroisse Saint Jean de Shanghai et de San Francisco",
+    "city": "Cayes"
+  },
+  {
+    "uid": "390",
+    "latitude": 18.5251934,
+    "longitude": -72.3712296,
+    "country": "Haiti",
+    "state": null,
+    "name": "Ð Ð°rÐ¾Ñ–sse Saint Moise le Noir",
+    "city": "Fontamara"
+  },
+  {
+    "uid": "424",
+    "latitude": 19.143431,
+    "longitude": -72.003891,
+    "country": "Haiti",
+    "state": null,
+    "name": "Paroisse Saint Irenee de Lyons",
+    "city": "Hinche"
+  },
+  {
+    "uid": "386",
+    "latitude": 18.2340885,
+    "longitude": -72.5344178,
+    "country": "Haiti",
+    "state": null,
+    "name": "Paroisse St. Augustin",
+    "city": "Jacmel"
+  },
+  {
+    "uid": "389",
+    "latitude": 18.510833,
+    "longitude": -72.633889,
+    "country": "Haiti",
+    "state": null,
+    "name": "Ð Ð°rÐ¾Ñ–sse Saints Pierre et Paul",
+    "city": "Leogane"
+  },
+  {
+    "uid": "329",
+    "latitude": 18.5749890825737,
+    "longitude": -72.2982788085938,
+    "country": "Haiti",
+    "state": null,
+    "name": "Ð Ð°rÐ¾Ñ–sse NÐ¾tre DÐ°me de lÐ° NÐ°tÑ–vÑ–te",
+    "city": "Port-au-Prince"
+  },
+  {
+    "uid": "363",
+    "latitude": -6.91519,
+    "longitude": 107.6035,
+    "country": "Indonesia",
+    "state": null,
+    "name": "Bandung Mission",
+    "city": "Bandung, West Java"
+  },
+  {
+    "uid": "547",
+    "latitude": -6.324249,
+    "longitude": 107.127175,
+    "country": "Indonesia",
+    "state": null,
+    "name": "Community St. Elijah The Prophet",
+    "city": "Bekasi - Jawa Barat"
+  },
+  {
+    "uid": "369",
+    "latitude": -7.53949,
+    "longitude": 110.6129,
+    "country": "Indonesia",
+    "state": null,
+    "name": "St. Mark Mission",
+    "city": "Bojolali, Central Java"
+  },
+  {
+    "uid": "356",
+    "latitude": -7.150975,
+    "longitude": 110.1402594,
+    "country": "Indonesia",
+    "state": null,
+    "name": "Grasak Mission",
+    "city": "Grasak, Central Java"
+  },
+  {
+    "uid": "353",
+    "latitude": -7.15719,
+    "longitude": 112.653,
+    "country": "Indonesia",
+    "state": null,
+    "name": "Community of St. Seraphim of Sarov",
+    "city": "Gresik, East Java"
+  },
+  {
+    "uid": "371",
+    "latitude": -6.211544,
+    "longitude": 106.845172,
+    "country": "Indonesia",
+    "state": null,
+    "name": "St. Thomas Parish",
+    "city": "Jakarta"
+  },
+  {
+    "uid": "358",
+    "latitude": -2.54319,
+    "longitude": 140.715,
+    "country": "Indonesia",
+    "state": null,
+    "name": "Jayapura Mission",
+    "city": "Jayapura, Papua"
+  },
+  {
+    "uid": "360",
+    "latitude": -7.54179,
+    "longitude": 112.2344,
+    "country": "Indonesia",
+    "state": null,
+    "name": "St. John the Baptist Church",
+    "city": "Jombang, East Java"
+  },
+  {
+    "uid": "458",
+    "latitude": -7.537539,
+    "longitude": 112.230817,
+    "country": "Indonesia",
+    "state": null,
+    "name": "Jombang City Mission, East Java",
+    "city": "Jombang, East Java"
+  },
+  {
+    "uid": "361",
+    "latitude": -7.37149,
+    "longitude": 112.2177,
+    "country": "Indonesia",
+    "state": null,
+    "name": "Kabuh Village Mission",
+    "city": "Kabuh, East Java"
+  },
+  {
+    "uid": "362",
+    "latitude": -10.17244,
+    "longitude": 123.577904,
+    "country": "Indonesia",
+    "state": null,
+    "name": "Kupang Mission",
+    "city": "Kupang, East Nusa Tenggara"
+  },
+  {
+    "uid": "401",
+    "latitude": 1.144821,
+    "longitude": 124.8397672,
+    "country": "Indonesia",
+    "state": null,
+    "name": "St. Gregory of Nyssa Church",
+    "city": "Langowan, North Sulawesi"
+  },
+  {
+    "uid": "370",
+    "latitude": 1.4884,
+    "longitude": 124.8434,
+    "country": "Indonesia",
+    "state": null,
+    "name": "Nativity of the Theotokos Parish",
+    "city": "Manado, North Sulawesi"
+  },
+  {
+    "uid": "354",
+    "latitude": 3.5760308,
+    "longitude": 98.6623749,
+    "country": "Indonesia",
+    "state": null,
+    "name": "Community of St. Sergius of Radonezh",
+    "city": "Medan, North Sumatra"
+  },
+  {
+    "uid": "352",
+    "latitude": -7.46399,
+    "longitude": 112.4319,
+    "country": "Indonesia",
+    "state": null,
+    "name": "Community of St. Panteleimon",
+    "city": "Modjokerto, East Java"
+  },
+  {
+    "uid": "364",
+    "latitude": -7.508624,
+    "longitude": 110.763154,
+    "country": "Indonesia",
+    "state": null,
+    "name": "Ngemplak Mission",
+    "city": "Ngemplak, Central Java"
+  },
+  {
+    "uid": "365",
+    "latitude": -7.458589,
+    "longitude": 112.19309,
+    "country": "Indonesia",
+    "state": null,
+    "name": "Mission in Plandaan",
+    "city": "Plandaan, East Java"
+  },
+  {
+    "uid": "366",
+    "latitude": -7.302328,
+    "longitude": 110.4729,
+    "country": "Indonesia",
+    "state": null,
+    "name": "St. Anthony the Great Community",
+    "city": "Salatiga, Central Java"
+  },
+  {
+    "uid": "368",
+    "latitude": -7.587036,
+    "longitude": 110.836796,
+    "country": "Indonesia",
+    "state": null,
+    "name": "St. John of Kronstadt Mission",
+    "city": "Semanggi, Central Java"
+  },
+  {
+    "uid": "457",
+    "latitude": -8.129379,
+    "longitude": 115.091301,
+    "country": "Indonesia",
+    "state": null,
+    "name": "Bali Mission",
+    "city": "Singaraja"
+  },
+  {
+    "uid": "351",
+    "latitude": -7.27663478165439,
+    "longitude": 112.775964443312,
+    "country": "Indonesia",
+    "state": null,
+    "name": "Community of St Jonah of Manchuria",
+    "city": "Surabaya, East Java"
+  },
+  {
+    "uid": "357",
+    "latitude": -7.5496344,
+    "longitude": 110.8010006,
+    "country": "Indonesia",
+    "state": null,
+    "name": "Holy Trinity Orthodox Church",
+    "city": "Surakarta, Central Java"
+  },
+  {
+    "uid": "374",
+    "latitude": -7.61229,
+    "longitude": 109.3618,
+    "country": "Indonesia",
+    "state": null,
+    "name": "Tambak Mission",
+    "city": "Tambak, Central Java"
+  },
+  {
+    "uid": "367",
+    "latitude": -7.150975,
+    "longitude": 110.1402594,
+    "country": "Indonesia",
+    "state": null,
+    "name": "St George Mission",
+    "city": "Tlatar, Central Java"
+  },
+  {
+    "uid": "456",
+    "latitude": 1.3245694,
+    "longitude": 124.8279514,
+    "country": "Indonesia",
+    "state": null,
+    "name": "Tomohon Mission",
+    "city": "Tomohon"
+  },
+  {
+    "uid": "359",
+    "latitude": -7.797224,
+    "longitude": 110.368797,
+    "country": "Indonesia",
+    "state": null,
+    "name": "Yogyakarta City Mission",
+    "city": "Yogyakarta, Central Java"
+  },
+  {
+    "uid": "630",
+    "latitude": 54.6229483,
+    "longitude": -5.9330045,
+    "country": "Ireland",
+    "state": null,
+    "name": "The Parish of St John the Wonderworker of Shanghai and San Francisco",
+    "city": "Belfast"
+  },
+  {
+    "uid": "341",
+    "latitude": 52.979058,
+    "longitude": -7.18135,
+    "country": "Ireland",
+    "state": null,
+    "name": "St. Colman of Oughaval Church",
+    "city": "Stradbally"
+  },
+  {
+    "uid": "155",
+    "latitude": 31.769134,
+    "longitude": 35.271535,
+    "country": "Israel",
+    "state": null,
+    "name": "Community of the Resurrection of Christ at the Bethany Orthodox School for girls and the Church of St. Lazarus the Four Days Dead and the cave of St. Nicholas the Wonderworker",
+    "city": "Bethany"
+  },
+  {
+    "uid": "157",
+    "latitude": 31.5469417370848,
+    "longitude": 35.1191711425781,
+    "country": "Israel",
+    "state": null,
+    "name": "Oak of Mamre and Cathedral of the Forefathers",
+    "city": "Hebron"
+  },
+  {
+    "uid": "261",
+    "latitude": 31.8572932229497,
+    "longitude": 35.4516792297363,
+    "country": "Israel",
+    "state": null,
+    "name": "Chapel in the Mission Garden",
+    "city": "Jericho"
+  },
+  {
+    "uid": "265",
+    "latitude": 31.8728928478407,
+    "longitude": 35.5421447753906,
+    "country": "Israel",
+    "state": null,
+    "name": "Chapel of St. John the Forerunner",
+    "city": "Jericho"
+  },
+  {
+    "uid": "260",
+    "latitude": 31.7794379247993,
+    "longitude": 35.2406644821167,
+    "country": "Israel",
+    "state": null,
+    "name": "Gethsemane Convent; Church of St. Mary Magdalene",
+    "city": "Jerusalem"
+  },
+  {
+    "uid": "262",
+    "latitude": 31.7788724590312,
+    "longitude": 35.2451062202454,
+    "country": "Israel",
+    "state": null,
+    "name": "The Russian Ecclesiastical Mission in Jerusalem",
+    "city": "Jerusalem"
+  },
+  {
+    "uid": "264",
+    "latitude": 31.768319,
+    "longitude": 35.21371,
+    "country": "Israel",
+    "state": null,
+    "name": "Russian Convent of the Ascension on the Mount of Olives (Eleon)",
+    "city": "Jerusalem"
+  },
+  {
+    "uid": "153",
+    "latitude": 31.8333966242948,
+    "longitude": 35.316721200943,
+    "country": "Israel",
+    "state": null,
+    "name": "Skete of St. Chariton",
+    "city": "Wadi Fara"
+  },
+  {
+    "uid": "251",
+    "latitude": 41.109535,
+    "longitude": 16.871951,
+    "country": "Italy",
+    "state": null,
+    "name": "Chiesa Russa Ortodossa di San Nicola",
+    "city": "Bari"
+  },
+  {
+    "uid": "680",
+    "latitude": 43.7831912,
+    "longitude": 11.2547367,
+    "country": "Italy",
+    "state": null,
+    "name": "Church of the Nativity of Christ and St Nicholas the Wonderworker",
+    "city": "Firenze FI"
+  },
+  {
+    "uid": "679",
+    "latitude": 43.8145974,
+    "longitude": 7.7703922,
+    "country": "Italy",
+    "state": null,
+    "name": "Church of Christ the Saviour, St Katherine the Great-Martyr and St Seraphim of Sarov",
+    "city": "Sanremo IM"
+  },
+  {
+    "uid": "560",
+    "latitude": 18.0695959,
+    "longitude": -76.7882414,
+    "country": "Jamaica",
+    "state": null,
+    "name": "St. Timothy the Apostle Orthodox Church",
+    "city": "Kingston"
+  },
+  {
+    "uid": "562",
+    "latitude": 18.494658,
+    "longitude": -77.6539774,
+    "country": "Jamaica",
+    "state": null,
+    "name": "St. Moses the Black Orthodox Church",
+    "city": "Trelawny"
+  },
+  {
+    "uid": "87",
+    "latitude": 49.614217,
+    "longitude": 6.119263,
+    "country": "Luxembourg",
+    "state": null,
+    "name": "Eglise des Sts. Apotres Pierre et Paul",
+    "city": "Luxembourg"
+  },
+  {
+    "uid": "80",
+    "latitude": 19.4298901,
+    "longitude": -99.1675336,
+    "country": "Mexico",
+    "state": null,
+    "name": "Sacrosanto Monasterio de la Santisima Trinidad",
+    "city": "Mexico City"
+  },
+  {
+    "uid": "164",
+    "latitude": 33.582102,
+    "longitude": -7.62269200000003,
+    "country": "Morocco",
+    "state": null,
+    "name": "Holy Dormition Church",
+    "city": "Casablanca"
+  },
+  {
+    "uid": "250",
+    "latitude": 52.2846988,
+    "longitude": 4.7991329,
+    "country": "Netherlands",
+    "state": null,
+    "name": "Heilige Maria van Egypte",
+    "city": "Aalsmeer"
+  },
+  {
+    "uid": "209",
+    "latitude": 51.9870966,
+    "longitude": 5.8975357,
+    "country": "Netherlands",
+    "state": null,
+    "name": "Eglise de la Protection de la MÃ¨re de Dieu",
+    "city": "Arnhem"
+  },
+  {
+    "uid": "636",
+    "latitude": 50.8513682,
+    "longitude": 5.6909725,
+    "country": "Netherlands",
+    "state": null,
+    "name": "Diocesan Mission in Maastricht",
+    "city": "Postbus"
+  },
+  {
+    "uid": "313",
+    "latitude": -36.9051794,
+    "longitude": 174.7412546,
+    "country": "New Zealand",
+    "state": null,
+    "name": "Church of the Resurrection of Christ",
+    "city": "Auckland"
+  },
+  {
+    "uid": "314",
+    "latitude": -43.547296,
+    "longitude": 172.639589,
+    "country": "New Zealand",
+    "state": null,
+    "name": "St. Nicholas Church",
+    "city": "Christchurch"
+  },
+  {
+    "uid": "315",
+    "latitude": -41.309715,
+    "longitude": 174.824898,
+    "country": "New Zealand",
+    "state": null,
+    "name": "Christ the Savior Church",
+    "city": "Wellington"
+  },
+  {
+    "uid": "526",
+    "latitude": -40.8261434,
+    "longitude": -63.0266339,
+    "country": "Nicaragua",
+    "state": null,
+    "name": "monasterio San Antonio el Grande,",
+    "city": "Bosco"
+  },
+  {
+    "uid": "612",
+    "latitude": 12.9290069,
+    "longitude": -85.9151211,
+    "country": "Nicaragua",
+    "state": null,
+    "name": "Mision San Juan de Shanghai y San Fransisco",
+    "city": "Matagalpa"
+  },
+  {
+    "uid": "693",
+    "latitude": 30.375321,
+    "longitude": 69.345116,
+    "country": "Pakistan",
+    "state": null,
+    "name": "St. Michael the Archangel Orthodox Mission",
+    "city": ""
+  },
+  {
+    "uid": "285",
+    "latitude": -25.2936,
+    "longitude": -57.64187,
+    "country": "Paraguay",
+    "state": null,
+    "name": "Ð†glesÑ–Ð° ÐžrtÐ¾dÐ¾xÐ° RusÐ° de lÐ° VÑ–rgen del ÐmÑ€Ð°rÐ¾",
+    "city": "Asuncion"
+  },
+  {
+    "uid": "286",
+    "latitude": -27.339758,
+    "longitude": -55.866362,
+    "country": "Paraguay",
+    "state": null,
+    "name": "Ð†glesÑ–Ð° ÐžrtÐ¾dÐ¾xÐ° RusÐ° de SÐ°n NÑ–cÐ¾lÐ°s",
+    "city": "Encarnacion"
+  },
+  {
+    "uid": "688",
+    "latitude": 6.7662687,
+    "longitude": 125.3284269,
+    "country": "Philippines",
+    "state": null,
+    "name": "Santa Maria, Philippines. Mission of St. John Maximovitch",
+    "city": "Davao del Sur"
+  },
+  {
+    "uid": "692",
+    "latitude": 11.041944,
+    "longitude": 125.690278,
+    "country": "Philippines",
+    "state": null,
+    "name": "Iveron Mother of God Mission Chapel",
+    "city": "Easter Samar"
+  },
+  {
+    "uid": "689",
+    "latitude": 14.5995124,
+    "longitude": 120.9842195,
+    "country": "Philippines",
+    "state": null,
+    "name": "Orthodox community of St. Nikolai",
+    "city": "Manila"
+  },
+  {
+    "uid": "690",
+    "latitude": 11.176904,
+    "longitude": 124.9809758,
+    "country": "Philippines",
+    "state": null,
+    "name": "Leyte. St. Nikolai of Zicha Orthodox Church",
+    "city": "Palo, Leyte"
+  },
+  {
+    "uid": "334",
+    "latitude": 38.695141,
+    "longitude": -9.308068,
+    "country": "Portugal",
+    "state": null,
+    "name": "Communaute de la Protection de la Mere de Dieu",
+    "city": "Oeiras"
+  },
+  {
+    "uid": "684",
+    "latitude": 35.907757,
+    "longitude": 127.766922,
+    "country": "South Korea",
+    "state": null,
+    "name": "Korean Orthodox Mission",
+    "city": ""
+  },
+  {
+    "uid": "398",
+    "latitude": 36.145215,
+    "longitude": 128.4169525,
+    "country": "South Korea",
+    "state": null,
+    "name": "Korean Orthodox MIssion, St. John the Theologian Parish",
+    "city": "Okgye-dong, Gumi"
+  },
+  {
+    "uid": "343",
+    "latitude": 37.7533440131066,
+    "longitude": 128.7158203125,
+    "country": "South Korea",
+    "state": null,
+    "name": "Holy Trinity Skete and St. Anna Church",
+    "city": "Samchok-si, Kangwon-do"
+  },
+  {
+    "uid": "637",
+    "latitude": 38.346389,
+    "longitude": -0.4959454,
+    "country": "Spain",
+    "state": null,
+    "name": "Parroquia de San SimeÃ³n Nuevo TeÃ³logo y S. Innokentii de MoscÃº",
+    "city": "Alicante"
+  },
+  {
+    "uid": "500",
+    "latitude": 36.5316276,
+    "longitude": -6.1895826,
+    "country": "Spain",
+    "state": null,
+    "name": "Chapelle du Saint Archange Michel",
+    "city": "Cadiz"
+  },
+  {
+    "uid": "501",
+    "latitude": 36.4697052,
+    "longitude": -6.192104,
+    "country": "Spain",
+    "state": null,
+    "name": "Chapelle de Saint Basile",
+    "city": "Cadiz"
+  },
+  {
+    "uid": "638",
+    "latitude": 38.2619721,
+    "longitude": -0.7089828,
+    "country": "Spain",
+    "state": null,
+    "name": "MisiÃ³n parroquial ortodoxa de San SerafÃ­n de Sarov y San Vicente MÃ¡rtir",
+    "city": "Elche"
+  },
+  {
+    "uid": "152",
+    "latitude": 40.33666,
+    "longitude": -3.697826,
+    "country": "Spain",
+    "state": null,
+    "name": "Communaute Saint Georges",
+    "city": "Madrid"
+  },
+  {
+    "uid": "504",
+    "latitude": 37.691238,
+    "longitude": -6.31426099999999,
+    "country": "Spain",
+    "state": null,
+    "name": "Monasterio de San Isidoro de Sevilla",
+    "city": "Sevilla"
+  },
+  {
+    "uid": "502",
+    "latitude": 37.3954009,
+    "longitude": -5.9827894,
+    "country": "Spain",
+    "state": null,
+    "name": "Chapelle de San Serafin de Sarov",
+    "city": "Sevilla"
+  },
+  {
+    "uid": "635",
+    "latitude": 47.5691379,
+    "longitude": 7.594605,
+    "country": "Switzerland",
+    "state": null,
+    "name": "Kirche des Hl Nikolai",
+    "city": "Basel"
+  },
+  {
+    "uid": "253",
+    "latitude": 47.569109,
+    "longitude": 7.594529,
+    "country": "Switzerland",
+    "state": null,
+    "name": "Eglise Saint Nicolas",
+    "city": "Basel-Stadt"
+  },
+  {
+    "uid": "254",
+    "latitude": 46.948833,
+    "longitude": 7.453633,
+    "country": "Switzerland",
+    "state": null,
+    "name": "Eglise de la Sainte-Trinite",
+    "city": "Bern"
+  },
+  {
+    "uid": "406",
+    "latitude": 46.1970764,
+    "longitude": 6.1566282,
+    "country": "Switzerland",
+    "state": null,
+    "name": "Diocesan Administration, Diocese of Geneva and Western Europe",
+    "city": "Geneve"
+  },
+  {
+    "uid": "88",
+    "latitude": 46.198567,
+    "longitude": 6.153648,
+    "country": "Switzerland",
+    "state": null,
+    "name": "Cathedrale de la Exaltation de la Sainte Croix",
+    "city": "Geneve"
+  },
+  {
+    "uid": "257",
+    "latitude": 46.3418320391176,
+    "longitude": 7.0118522644043,
+    "country": "Switzerland",
+    "state": null,
+    "name": "House Church of Great Martyr Panteleimon",
+    "city": "Leysin, Vaud"
+  },
+  {
+    "uid": "256",
+    "latitude": 46.505921,
+    "longitude": 6.650697,
+    "country": "Switzerland",
+    "state": null,
+    "name": "Eglise de la Nativite du Christ",
+    "city": "Pully"
+  },
+  {
+    "uid": "258",
+    "latitude": 46.461868,
+    "longitude": 6.84574,
+    "country": "Switzerland",
+    "state": null,
+    "name": "Eglise Sainte Barbara",
+    "city": "Vevey"
+  },
+  {
+    "uid": "259",
+    "latitude": 47.379732,
+    "longitude": 8.546938,
+    "country": "Switzerland",
+    "state": null,
+    "name": "Eglise de la Protection de la Mere de Dieu",
+    "city": "Zurich"
+  },
+  {
+    "uid": "640",
+    "latitude": 47.3797476,
+    "longitude": 8.5469245,
+    "country": "Switzerland",
+    "state": null,
+    "name": "Kirche Hl. Pokrov",
+    "city": "ZÃ¼rich"
+  },
+  {
+    "uid": "158",
+    "latitude": 41.024539,
+    "longitude": 28.978868,
+    "country": "Turkey",
+    "state": null,
+    "name": "St. Andrew Orthodox Church",
+    "city": "Karakoy"
+  },
+  {
+    "uid": "99",
+    "latitude": -0.432754216642157,
+    "longitude": 32.499532699585,
+    "country": "Uganda",
+    "state": null,
+    "name": "Holy Annunciation Church of Bukasa Island",
+    "city": ""
+  },
+  {
+    "uid": "517",
+    "latitude": 54.6229257,
+    "longitude": -5.9330107,
+    "country": "United Kingdom",
+    "state": null,
+    "name": "The Parish of St John the Wonderworker of Shanghai and San Francisco",
+    "city": "Belfast"
+  },
+  {
+    "uid": "322",
+    "latitude": 51.8818755865046,
+    "longitude": 0.909955501556396,
+    "country": "United Kingdom",
+    "state": null,
+    "name": "St. John the Wonderworker Orthodox Church",
+    "city": "Colchester"
+  },
+  {
+    "uid": "629",
+    "latitude": 54.7750759,
+    "longitude": -1.6489959,
+    "country": "United Kingdom",
+    "state": null,
+    "name": "Mission of St John the Forerunner and Baptist",
+    "city": "Durham"
+  },
+  {
+    "uid": "462",
+    "latitude": 51.7982147,
+    "longitude": 1.1186524,
+    "country": "United Kingdom",
+    "state": null,
+    "name": "Monastery of the Holy Unmercenary Healer Pantaleimon",
+    "city": "Essex"
+  },
+  {
+    "uid": "678",
+    "latitude": 51.9131294,
+    "longitude": -2.0455652,
+    "country": "United Kingdom",
+    "state": null,
+    "name": "Parish Community of the Holy Prince St Vladimir",
+    "city": "Gloucestershire"
+  },
+  {
+    "uid": "514",
+    "latitude": 55.9937062,
+    "longitude": -4.93428849999998,
+    "country": "United Kingdom",
+    "state": null,
+    "name": "St. Bride Western-Rite Stavropegial Orthodox Hermitage",
+    "city": "Kilmun"
+  },
+  {
+    "uid": "628",
+    "latitude": 53.3856564,
+    "longitude": -3.0521832,
+    "country": "United Kingdom",
+    "state": null,
+    "name": "Russian Orthodox Mission of St Nicholas",
+    "city": "Liverpool"
+  },
+  {
+    "uid": "345",
+    "latitude": 51.4898258,
+    "longitude": -0.276024,
+    "country": "United Kingdom",
+    "state": null,
+    "name": "Cathedral of the Dormition of the Mother of God and the Holy Royal Martyrs",
+    "city": "London"
+  },
+  {
+    "uid": "675",
+    "latitude": 52.6365169,
+    "longitude": 1.2889025,
+    "country": "United Kingdom",
+    "state": null,
+    "name": "Parish of St Alexander Nevsky",
+    "city": "Norfolk"
+  },
+  {
+    "uid": "490",
+    "latitude": 52.9729527,
+    "longitude": -1.0822999,
+    "country": "United Kingdom",
+    "state": null,
+    "name": "St. Edmund the Martyr Stavropegial Western-Rite Orthodox Church",
+    "city": "Nottingham"
+  },
+  {
+    "uid": "408",
+    "latitude": 53.3856684,
+    "longitude": -3.05239879999999,
+    "country": "United Kingdom",
+    "state": null,
+    "name": "Diocesan Administration, Diocese of Great Britain and Ireland",
+    "city": "Prenton, Wirral"
+  },
+  {
+    "uid": "676",
+    "latitude": 50.8549608,
+    "longitude": 0.5510868,
+    "country": "United Kingdom",
+    "state": null,
+    "name": "St Leonards on Sea: Parish of Christ the All-Merciful Saviour",
+    "city": "St Leonards on Sea"
+  },
+  {
+    "uid": "382",
+    "latitude": 52.4621521,
+    "longitude": 1.4870033,
+    "country": "United Kingdom",
+    "state": null,
+    "name": "Church of the Mother of God &quot;Joy of All Who Sorrow&quot;",
+    "city": "Suffolk"
+  },
+  {
+    "uid": "677",
+    "latitude": 52.7240856,
+    "longitude": -2.4317022,
+    "country": "United Kingdom",
+    "state": null,
+    "name": "Mission Parish of St Chad of Lichfield",
+    "city": "Telford"
+  },
+  {
+    "uid": "344",
+    "latitude": 53.4270341,
+    "longitude": -3.0421126,
+    "country": "United Kingdom",
+    "state": null,
+    "name": "Wallasey: St. Elisabeth the New Martyr Church",
+    "city": "Wallasey"
+  },
+  {
+    "uid": "464",
+    "latitude": 52.8946704,
+    "longitude": 0.8759113,
+    "country": "United Kingdom",
+    "state": null,
+    "name": "Pan-Orthodox Chapel of the Life-Giving Spring",
+    "city": "Walsingham"
+  },
+  {
+    "uid": "447",
+    "latitude": 51.3226061,
+    "longitude": -2.97611419999998,
+    "country": "United Kingdom",
+    "state": null,
+    "name": "St. Nectan Western-Rite Stavropigial Orthodox Mission",
+    "city": "Weston super Mare"
+  },
+  {
+    "uid": "287",
+    "latitude": -34.88151,
+    "longitude": -56.179481,
+    "country": "Uruguay",
+    "state": null,
+    "name": "Iglesia Ortodoxa Rusa de la Resurreccion",
+    "city": "Montevideo"
+  }
+]

@@ -1,0 +1,67 @@
+@import "tailwindcss";
+@import "@orthfx/ui/index.css";
+
+/* Fix for leaflet map rendering */
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+}
+
+/* Force proper layout */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  flex: 1;
+  display: grid;
+  grid-template-columns: 1fr 384px;
+  overflow: hidden;
+  position: relative;
+}
+
+.map-container {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  z-index: 1;
+}
+
+.parish-sidebar {
+  height: 100%;
+  overflow-y: auto;
+  border-left: 1px solid #e5e7eb;
+  position: relative;
+  z-index: 2;
+}
+
+/* Ensure dropdowns appear above map */
+[data-radix-popper-content-wrapper] {
+  z-index: 9999 !important;
+}
+
+/* Style Leaflet popups for dark mode */
+.dark .leaflet-popup-content-wrapper {
+  background-color: hsl(var(--background));
+  color: hsl(var(--foreground));
+}
+
+.dark .leaflet-popup-tip {
+  background-color: hsl(var(--background));
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 0.5rem;
+}
+
+.leaflet-popup-content {
+  margin: 0;
+}
