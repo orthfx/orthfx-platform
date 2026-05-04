@@ -74,3 +74,53 @@ These commands map to their corresponding tools. For example, `vp dev --port 300
 - [ ] Run `vp install` after pulling remote changes and before getting started.
 - [ ] Run `vp check` and `vp test` to validate changes.
 <!--VITE PLUS END-->
+
+# Project Overview
+
+This monorepo powers the orthfx platform — digital tools for Orthodox Christian parishes.
+
+```
+orthfx-platform/
+├── apps/
+│   ├── website/            # orthfx.com organizational site (package: orthfx)
+│   ├── sites/              # Church website builder at orthdx.site (package: sites)
+│   ├── pledge/             # Crowdfunding/donation platform (package: pledge)
+│   └── orthodox-registry/  # Parish directory and map (package: orthodox-registry)
+└── packages/
+    ├── backend/    # Convex backend — schemas, queries, mutations (@orthfx/backend)
+    ├── ui/         # Shared shadcn/Radix/Tailwind components (@orthfx/ui)
+    └── config/     # Shared config (future)
+```
+
+## Tech Stack
+
+- **Toolchain:** Vite+ (`vp` CLI)
+- **Frontend:** React 19, Vite 8, React Router v7
+- **Styling:** Tailwind CSS v4, shadcn/ui
+- **Backend/DB:** Convex (serverless functions, database, file storage, auth)
+- **Package manager:** pnpm workspaces (via `vp`)
+
+## Deployment
+
+All four apps deploy to Netlify. Builds trigger automatically on push to `main`. Each app has a `netlify.toml` that Netlify reads from the app's base directory.
+
+**Critical:** Netlify runs the build command from the **repo root**, not the app directory. The `netlify.toml` build commands use `pnpm --filter <name> run build` — do not add `cd` navigation.
+
+| App | Netlify site | URL | Env vars |
+|-----|-------------|-----|----------|
+| `apps/website` | orthfx-platform-website | https://orthfx-platform-website.netlify.app | — |
+| `apps/sites` | orthfx-platform-sites | https://orthfx-platform-sites.netlify.app | `VITE_CONVEX_URL` |
+| `apps/pledge` | orthfx-platform-pledge | https://orthfx-platform-pledge.netlify.app | `VITE_CONVEX_URL` |
+| `apps/orthodox-registry` | orthfx-platform-registry | https://orthfx-platform-registry.netlify.app | — |
+
+Each app directory has a `.netlify/state.json` (gitignored) linking it to its site ID. Use `netlify` CLI commands from within an app directory to target that site (e.g. `netlify deploy --trigger`, `netlify env:set`).
+
+### Convex
+
+`pledge` and `sites` share a single Convex deployment: `https://acrobatic-whale-81.convex.cloud`. The `VITE_CONVEX_URL` env var is set in Netlify for both sites. Locally, set it in `.env.local` in each app.
+
+## tsconfig conventions
+
+Apps using `tsc -b` (orthodox-registry, pledge, sites) have a root `tsconfig.json` with project references to `tsconfig.app.json` and `tsconfig.node.json`. The `tsconfig.app.json` is the source of truth for compiler options — always use `moduleResolution: "bundler"` and include `"vite/client"` in `types`.
+
+The `website` app uses a flat `tsconfig.json` (no project references).
