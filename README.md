@@ -52,6 +52,34 @@ orthfx-platform/
    vp dlx convex dev --path packages/backend/convex
    ```
 
+## Deployment
+
+Each app is deployed independently to Netlify. Builds trigger automatically on push to `main`. The `netlify.toml` in each app directory controls the build config — Netlify runs the command from the repo root so workspace packages are resolved correctly.
+
+| App | Netlify Site | URL |
+|-----|-------------|-----|
+| `apps/website` | orthfx-platform-website | https://orthfx-platform-website.netlify.app |
+| `apps/sites` | orthfx-platform-sites | https://orthfx-platform-sites.netlify.app |
+| `apps/pledge` | orthfx-platform-pledge | https://orthfx-platform-pledge.netlify.app |
+| `apps/orthodox-registry` | orthfx-platform-registry | https://orthfx-platform-registry.netlify.app |
+
+### Environment Variables
+
+| Variable | Apps | Description |
+|----------|------|-------------|
+| `VITE_CONVEX_URL` | `pledge`, `sites` | Convex deployment URL |
+
+### Linking a new machine
+
+Each app directory contains a `.netlify/state.json` (gitignored) that links it to its site. To re-establish the link locally:
+
+```bash
+cd apps/<app>
+netlify link --id <site-id>
+```
+
+Site IDs are visible in the Netlify dashboard or via `netlify api listSites`.
+
 ## Development Philosophy
 
 - **Unified Toolchain:** Always use the `vp` CLI for dev, build, lint, and package management.

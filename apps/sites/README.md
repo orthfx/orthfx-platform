@@ -25,3 +25,11 @@ vp dlx convex dev
 For local development involving subdomain routing, use `*.localhost` (e.g., `stmichael.localhost:5173`).
 
 All API calls to the database should import from `@orthfx/backend/api`.
+
+## Deployment
+
+Deploys automatically to Netlify on push to `main`.
+
+- **Site:** orthfx-platform-sites
+- **URL:** https://orthfx-platform-sites.netlify.app
+- **Env vars:** `VITE_CONVEX_URL` (set in Netlify dashboard)

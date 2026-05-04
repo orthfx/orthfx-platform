@@ -16,3 +16,11 @@ Part of the **orthfx-platform** monorepo. It uses data from the shared `@orthfx/
 # Start the Vite+ dev server
 vp dev
 ```
+
+## Deployment
+
+Deploys automatically to Netlify on push to `main`.
+
+- **Site:** orthfx-platform-registry
+- **URL:** https://orthfx-platform-registry.netlify.app
+- **Env vars:** none required

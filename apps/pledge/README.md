@@ -24,4 +24,12 @@ While the underlying financial primitives (`funds`, `transactions`, `subscriptio
 # Start the Vite+ dev server
 vp dev
 ```
-Make sure you have your `.env.local` configured with the `VITE_CONVEX_URL` pointing to the shared Convex deployment.
+Make sure you have your `.env.local` configured with `VITE_CONVEX_URL` pointing to the shared Convex deployment.
+
+## Deployment
+
+Deploys automatically to Netlify on push to `main`.
+
+- **Site:** orthfx-platform-pledge
+- **URL:** https://orthfx-platform-pledge.netlify.app
+- **Env vars:** `VITE_CONVEX_URL` (set in Netlify dashboard)
