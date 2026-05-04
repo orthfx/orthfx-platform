@@ -15,7 +15,7 @@ The backend is intentionally decoupled from any specific frontend UI. It operate
 To develop against the backend, open a terminal in this directory and run:
 
 ```bash
-pnpm dev
+vp dlx convex dev
 ```
 
 This will sync your local `convex/` directory with your cloud deployment. All frontends in the monorepo import their generated types and API routes directly from this package using `import { api } from "@orthfx/backend/api"`.

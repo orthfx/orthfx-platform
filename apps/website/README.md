@@ -7,6 +7,6 @@ This frontend serves as the landing page for the organization, detailing our mis
 ## Development
 
 ```bash
-# Run the Vite dev server
-pnpm dev
+# Run the Vite+ dev server
+vp dev
 ```

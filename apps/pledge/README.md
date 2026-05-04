@@ -21,7 +21,7 @@ While the underlying financial primitives (`funds`, `transactions`, `subscriptio
 ## Development
 
 ```bash
-# Start the dev server
-pnpm dev
+# Start the Vite+ dev server
+vp dev
 ```
 Make sure you have your `.env.local` configured with the `VITE_CONVEX_URL` pointing to the shared Convex deployment.

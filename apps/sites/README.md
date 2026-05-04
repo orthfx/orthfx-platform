@@ -15,8 +15,11 @@ As part of the **orthfx monorepo**, this application integrates deeply with `@or
 ## Development
 
 ```bash
-# Run the Vite dev server
-pnpm dev
+# Run the Vite+ dev server
+vp dev
+
+# Run the Convex backend
+vp dlx convex dev
 ```
 
 For local development involving subdomain routing, use `*.localhost` (e.g., `stmichael.localhost:5173`).
