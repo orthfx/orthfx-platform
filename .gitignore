@@ -38,6 +38,12 @@ coverage/
 .convex/
 convex/_generated/
 
+# Agent / Memory
+.memory/
+.pemguin/
+.agents/
+.prompts/
+
 # OS
 .DS_Store
 Thumbs.db
