@@ -5,8 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "vp dev",
-    "build": "tsc -b && vp build",
-    "lint": "vp lint .",
+    "build": "vp build",
+    "check": "vp check",
+    "lint": "vp lint",
+    "fmt": "vp fmt",
     "preview": "vp preview",
     "prepare": "vp config"
   },
@@ -47,6 +49,5 @@
   "overrides": {
     "vite": "npm:@voidzero-dev/vite-plus-core@latest",
     "vitest": "npm:@voidzero-dev/vite-plus-test@latest"
-  },
-  "packageManager": "npm@11.12.0"
+  }
 }

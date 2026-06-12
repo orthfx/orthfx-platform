@@ -1,8 +1,8 @@
 [build]
-  command = "pnpm --filter orthodox-registry run build"
-  publish = "apps/orthodox-registry/dist"
+command = "pnpm --filter orthodox-registry run build"
+publish = "apps/orthodox-registry/dist"
 
 [[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
+from = "/*"
+to = "/index.html"
+status = 200

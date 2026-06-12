@@ -1,30 +1,30 @@
-import { useState, useEffect, useMemo } from 'react';
-import type { Parish } from './types/parish';
-import { ParishMap } from './components/ParishMap';
-import { ParishList } from './components/ParishList';
-import { Input } from './components/ui/input';
-import { Button } from './components/ui/button';
-import { ThemeToggle } from './components/theme-toggle';
+import { useState, useEffect, useMemo } from "react";
+import type { Parish } from "./types/parish";
+import { ParishMap } from "./components/ParishMap";
+import { ParishList } from "./components/ParishList";
+import { Input } from "./components/ui/input";
+import { Button } from "./components/ui/button";
+import { ThemeToggle } from "./components/theme-toggle";
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from './components/ui/select';
+} from "./components/ui/select";
 
 function App() {
   const [parishes, setParishes] = useState<Parish[]>([]);
-  const [searchTerm, setSearchTerm] = useState('');
-  const [countryFilter, setCountryFilter] = useState<string>('');
-  const [stateFilter, setStateFilter] = useState<string>('');
+  const [searchTerm, setSearchTerm] = useState("");
+  const [countryFilter, setCountryFilter] = useState<string>("");
+  const [stateFilter, setStateFilter] = useState<string>("");
   const [selectedParishId, setSelectedParishId] = useState<string>();
 
   useEffect(() => {
-    fetch('/rocor_parishes_detailed.json')
+    fetch("/rocor_parishes_detailed.json")
       .then((res) => res.json())
       .then((data) => setParishes(data))
-      .catch((err) => console.error('Error loading parish data:', err));
+      .catch((err) => console.error("Error loading parish data:", err));
   }, []);
 
   const countries = useMemo(() => {
@@ -57,9 +57,9 @@ function App() {
   }, [parishes, searchTerm, countryFilter, stateFilter]);
 
   const handleReset = () => {
-    setSearchTerm('');
-    setCountryFilter('');
-    setStateFilter('');
+    setSearchTerm("");
+    setCountryFilter("");
+    setStateFilter("");
   };
 
   return (
@@ -120,7 +120,8 @@ function App() {
             </Button>
 
             <span className="text-sm text-muted-foreground ml-auto">
-              <span className="font-bold text-primary">{filteredParishes.length}</span> parishes found
+              <span className="font-bold text-primary">{filteredParishes.length}</span> parishes
+              found
             </span>
           </div>
         </div>

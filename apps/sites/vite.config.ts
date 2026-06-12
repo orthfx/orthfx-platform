@@ -8,7 +8,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 export default defineConfig({
   staged: {
-    "*": "vp check --fix"
+    "*": "vp check --fix",
   },
   fmt: {
     ignorePatterns: ["dist", ".agents"],

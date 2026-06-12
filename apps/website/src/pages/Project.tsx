@@ -1,13 +1,13 @@
-import { useParams, Link, Navigate } from 'react-router-dom'
-import ReactMarkdown from 'react-markdown'
-import { projects } from '../content/projects'
+import { useParams, Link, Navigate } from "react-router-dom";
+import ReactMarkdown from "react-markdown";
+import { projects } from "../content/projects";
 
 export default function Project() {
-  const { slug } = useParams()
-  const project = projects.find(p => p.slug === slug)
+  const { slug } = useParams();
+  const project = projects.find((p) => p.slug === slug);
 
   if (!project) {
-    return <Navigate to="/projects" replace />
+    return <Navigate to="/projects" replace />;
   }
 
   return (
@@ -35,5 +35,5 @@ export default function Project() {
         </div>
       </article>
     </div>
-  )
+  );
 }

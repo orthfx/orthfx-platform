@@ -1,14 +1,20 @@
-import { defineConfig } from 'vite-plus'
-import react from '@vitejs/plugin-react'
-import tailwindcss from '@tailwindcss/vite'
+import { defineConfig } from "vite-plus";
+import react from "@vitejs/plugin-react";
+import tailwindcss from "@tailwindcss/vite";
 
-// https://vite.dev/config/
 export default defineConfig({
   staged: {
-    "*": "vp check --fix"
+    "*": "vp check --fix",
   },
-  plugins: [
-    tailwindcss(),
-    react()
-  ],
-})
+  fmt: {
+    ignorePatterns: ["dist"],
+  },
+  lint: {
+    ignorePatterns: ["dist"],
+    options: {
+      typeAware: true,
+      typeCheck: true,
+    },
+  },
+  plugins: [tailwindcss(), react()],
+});

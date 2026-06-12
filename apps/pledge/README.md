@@ -1,6 +1,6 @@
 # Pledge
 
-Pledge is the crowdfunding and donation platform for the Orthodox Christian community. 
+Pledge is the crowdfunding and donation platform for the Orthodox Christian community.
 
 While the underlying financial primitives (`funds`, `transactions`, `subscriptions`) live in the shared `@orthfx/backend` and can be surfaced anywhere (e.g., embedded widgets on a parish website), this specific `apps/pledge` frontend serves as the dedicated "GoFundMe-style" presentation layer.
 
@@ -13,6 +13,7 @@ While the underlying financial primitives (`funds`, `transactions`, `subscriptio
 - **Anonymous Giving:** Options for donors to hide their names from public campaign feeds.
 
 ## Tech Stack
+
 - **Vite + React**
 - **Tailwind CSS v4** (via `@orthfx/ui`)
 - **Convex** (via `@orthfx/backend`)
@@ -24,6 +25,7 @@ While the underlying financial primitives (`funds`, `transactions`, `subscriptio
 # Start the Vite+ dev server
 vp dev
 ```
+
 Make sure you have your `.env.local` configured with `VITE_CONVEX_URL` pointing to the shared Convex deployment.
 
 ## Deployment

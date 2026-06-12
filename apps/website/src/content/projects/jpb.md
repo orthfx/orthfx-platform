@@ -22,6 +22,7 @@ This app provides an accessible, beautifully formatted digital version of tradit
 ## Key Features
 
 ### Prayer Content
+
 - **Morning Prayers** - Daily morning devotions
 - **Evening Prayers** - Prayers before sleep
 - **Liturgical Services** - Vespers, Matins, Divine Liturgy
@@ -30,6 +31,7 @@ This app provides an accessible, beautifully formatted digital version of tradit
 - **Special Feasts** - Pascha, Passion Week, and more
 
 ### User Experience
+
 - **Interactive Glossary**: Hover over Orthodox terms to see definitions inline
 - **Rich Typography**: Proper formatting with drop caps, headings, and spacing
 - **Dark/Light Mode**: System-aware theme switching for comfortable reading
@@ -37,7 +39,9 @@ This app provides an accessible, beautifully formatted digital version of tradit
 - **Structured Navigation**: Easy browsing by prayer category
 
 ### Content Processing
+
 The app features a sophisticated content pipeline:
+
 1. PDF extraction to source text
 2. Section parsing and cleaning
 3. OCR error correction

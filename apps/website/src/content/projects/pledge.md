@@ -21,18 +21,21 @@ Pledge is a complete Next.js subscription payments starter template that handles
 ## Features
 
 ### User Management
+
 - Secure user authentication with Supabase
 - Email/password and OAuth support
 - User profile management
 - Session handling
 
 ### Payments
+
 - Integration with Stripe Checkout
 - Customer portal for subscription management
 - Automatic syncing of pricing plans via Stripe webhooks
 - Support for multiple pricing tiers and billing intervals
 
 ### Database
+
 - Powerful data access with Supabase PostgreSQL
 - Automatic schema syncing
 - Real-time subscriptions
@@ -41,6 +44,7 @@ Pledge is a complete Next.js subscription payments starter template that handles
 ### Architecture
 
 The template follows best practices for SaaS applications:
+
 - Webhook integration for reliable payment processing
 - Automatic database updates on subscription changes
 - Customer portal for self-service management
@@ -65,6 +69,7 @@ The template follows best practices for SaaS applications:
 ## Step-by-step Setup
 
 Detailed setup instructions are provided in the repository, covering:
+
 - Vercel deployment
 - Supabase configuration
 - Stripe webhook setup
@@ -73,6 +78,7 @@ Detailed setup instructions are provided in the repository, covering:
 ## Going Live
 
 The template includes a comprehensive guide for transitioning from test mode to production, including:
+
 - Archiving test products
 - Configuring production environment variables
 - Setting up production webhooks

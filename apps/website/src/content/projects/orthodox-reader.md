@@ -23,6 +23,7 @@ Orthodox Reader is a Progressive Web App designed to provide a beautiful, distra
 ## Key Features
 
 ### Reading Experience
+
 - **Progressive Web App**: Installable on mobile and desktop with offline support
 - **Offline Reading**: Entire Bible text cached for reading without internet
 - **Continuous Reading**: Infinite scroll from Genesis to Revelation - chapters load dynamically as you read
@@ -31,17 +32,20 @@ Orthodox Reader is a Progressive Web App designed to provide a beautiful, distra
 - **Reading Position Tracking**: Automatically saves your place and offers "Continue Reading" on the home page
 
 ### Audio Features
+
 - **Audio Narration**: Synchronized audio playback with real-time verse highlighting and auto-scroll tracking
 - **Smart Audio Controls**: Auto-scroll follows audio playback, with "Resume Tracking" button when you scroll away
 - **Persistent Audio Position**: Saves playback position and state across sessions
 
 ### Customization
+
 - **Display Settings**: Toggle verse numbers, red letter text, book illustrations, headings, footnotes, and more
 - **Font Options**: Choose from Serif, Modern Serif, Sans Serif, or Monospace
 - **Dark/Light Mode**: System-aware theme switching with smooth transitions
 - **Book Illustrations**: Visual separators between books with theme-adaptive cover images
 
 ### Navigation
+
 - **Smart Navigation**: Dropdown navigation from header with testament tabs
 - **Keyboard Navigation**: Use arrow keys to move between chapters
 - **URL-based Routing**: Direct links to any chapter

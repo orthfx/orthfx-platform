@@ -42,27 +42,32 @@ The books from the Orthodox canon are being added in future updates to provide t
 ## Features
 
 ### Multiple Formats
+
 All books are available in three formats:
+
 - **JSON**: Structured data perfect for web applications
 - **XML**: Compatible with various Bible study tools
 - **Markdown**: Human-readable format for documentation
 
 ### Conversion Scripts
+
 The project includes helpful scripts for converting between formats:
+
 - Markdown to JSON
 - JSON to XML
 - JSON to Markdown
 
 ### Easy Integration
+
 Simple API for accessing Bible text in your Node.js applications.
 
 ## Usage
 
 ```javascript
-import { readBibleBook } from 'orthodox-nkjv';
+import { readBibleBook } from "orthodox-nkjv";
 
 async function main() {
-  const genesisData = await readBibleBook('Genesis');
+  const genesisData = await readBibleBook("Genesis");
   console.log(genesisData);
 }
 ```

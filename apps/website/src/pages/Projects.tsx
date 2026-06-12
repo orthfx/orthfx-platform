@@ -1,5 +1,5 @@
-import { Link } from 'react-router-dom'
-import { projects } from '../content/projects'
+import { Link } from "react-router-dom";
+import { projects } from "../content/projects";
 
 export default function Projects() {
   return (
@@ -46,5 +46,5 @@ export default function Projects() {
         ))}
       </div>
     </div>
-  )
+  );
 }

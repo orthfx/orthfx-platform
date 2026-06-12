@@ -1,12 +1,14 @@
 {
   "name": "pledge",
-  "private": true,
   "version": "0.0.0",
+  "private": true,
   "type": "module",
   "scripts": {
     "dev": "vp dev",
-    "build": "tsc -b && vp build",
-    "lint": "vp lint .",
+    "build": "vp build",
+    "check": "vp check",
+    "lint": "vp lint",
+    "fmt": "vp fmt",
     "preview": "vp preview",
     "prepare": "vp config"
   },

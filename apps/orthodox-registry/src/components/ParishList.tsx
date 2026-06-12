@@ -1,7 +1,7 @@
-import type { Parish } from '../types/parish';
-import { Card } from './ui/card';
-import { Badge } from './ui/badge';
-import { Phone, Mail, Globe } from 'lucide-react';
+import type { Parish } from "../types/parish";
+import { Card } from "./ui/card";
+import { Badge } from "./ui/badge";
+import { Phone, Mail, Globe } from "lucide-react";
 
 interface ParishListProps {
   parishes: Parish[];
@@ -16,13 +16,13 @@ export function ParishList({ parishes, selectedParishId, onParishClick }: Parish
         <Card
           key={parish.uid}
           className={`p-4 cursor-pointer transition-all hover:shadow-md ${
-            selectedParishId === parish.uid ? 'border-primary bg-primary/5' : ''
+            selectedParishId === parish.uid ? "border-primary bg-primary/5" : ""
           }`}
           onClick={() => onParishClick?.(parish)}
         >
           <h3 className="font-bold text-sm text-primary mb-1">{parish.name}</h3>
           <p className="text-xs text-muted-foreground mb-2">
-            {[parish.city, parish.state, parish.country].filter(Boolean).join(', ')}
+            {[parish.city, parish.state, parish.country].filter(Boolean).join(", ")}
           </p>
 
           {parish.organization && (
@@ -32,10 +32,13 @@ export function ParishList({ parishes, selectedParishId, onParishClick }: Parish
           {parish.clergy && parish.clergy.length > 0 && (
             <div className="mb-2">
               <p className="text-xs text-foreground">
-                {parish.clergy[0].name}{parish.clergy[0].role ? ` - ${parish.clergy[0].role}` : ''}
+                {parish.clergy[0].name}
+                {parish.clergy[0].role ? ` - ${parish.clergy[0].role}` : ""}
               </p>
               {parish.clergy.length > 1 && (
-                <p className="text-xs text-muted-foreground italic">+{parish.clergy.length - 1} more</p>
+                <p className="text-xs text-muted-foreground italic">
+                  +{parish.clergy.length - 1} more
+                </p>
               )}
             </div>
           )}

@@ -22,37 +22,49 @@ Orthobot makes it easy to share Bible verses in Discord servers. Simply type a B
 Orthobot supports multiple reference formats:
 
 ### 1. Specific Reference
+
 ```
 Gen 1:1
 ```
+
 Posts Genesis 1:1
 
 ### 2. Whole Chapter
+
 ```
 Gen 1
 ```
+
 Posts the entire chapter of Genesis 1
 
 ### 3. Range of Chapters
+
 ```
 Gen 1-2
 ```
+
 Posts Genesis chapters 1 and 2
 
 ### 4. Range of Verses Within a Chapter
+
 ```
 Gen 1:1-3
 ```
+
 Posts Genesis 1:1-3
 
 ### 5. Range of Verses Crossing Chapters
+
 ```
 Gen 1:1-2:3
 ```
+
 Posts from Genesis 1:1 through 2:3
 
 ### Multiple References
+
 You can provide multiple references by separating them with semicolons:
+
 ```
 Gen 1-2; John 3:16
 ```
@@ -60,17 +72,21 @@ Gen 1-2; John 3:16
 ## Setup Instructions
 
 ### Step 1: Prerequisites
+
 - Download and install Node.js from [nodejs.org](https://nodejs.org)
 - Create a Discord account and server
 
 ### Step 2: Create Discord Application
+
 1. Go to [Discord Developer Portal](https://discordapp.com/developers/applications/me)
 2. Click "New Application" and name your bot
 3. Navigate to "Bot" section and click "Add Bot"
 4. Copy the bot's authorization token
 
 ### Step 3: Configure Bot
+
 Create an `auth.json` file in the root directory:
+
 ```json
 {
   "token": "YOUR_BOTS_AUTH_TOKEN"
@@ -78,12 +94,15 @@ Create an `auth.json` file in the root directory:
 ```
 
 ### Step 4: Invite Bot to Server
+
 Use your Client ID to create an invite URL:
+
 ```
 https://discordapp.com/oauth2/authorize?&client_id=CLIENTID&scope=bot&permissions=8
 ```
 
 ### Step 5: Install and Run
+
 ```bash
 npm install
 node bot.js

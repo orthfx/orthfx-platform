@@ -3,9 +3,12 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "dev": "pnpm -r --parallel run dev",
-    "build": "pnpm -r run build",
-    "lint": "pnpm -r run lint"
+    "dev": "vp run -r --parallel dev",
+    "build": "vp run -r build",
+    "lint": "vp run -r lint",
+    "check": "vp run -r check",
+    "fmt": "vp run -r fmt",
+    "test": "vp run -r test"
   },
   "engines": {
     "node": ">=18"
@@ -18,5 +21,6 @@
   },
   "devDependencies": {
     "vite-plus": "^0.1.20"
-  }
+  },
+  "packageManager": "pnpm@10.28.0"
 }

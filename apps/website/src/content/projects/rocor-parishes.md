@@ -21,18 +21,21 @@ This app provides a searchable directory of ROCOR parishes, making it easy for O
 ## Key Features
 
 ### Parish Directory
+
 - Comprehensive listing of ROCOR parishes
 - Detailed parish information
 - Service times and schedules
 - Contact information and addresses
 
 ### Search & Discovery
+
 - Search parishes by name or location
 - Location-based parish finding
 - Filter and sort capabilities
 - Mobile-friendly interface
 
 ### User Experience
+
 - Clean, intuitive design
 - Fast search and filtering
 - Responsive layout for all devices
